@@ -1,0 +1,262 @@
+{
+  "groups": [
+    {
+      "groupId": "1",
+      "groupName": "ПИ-1-16",
+      "wayId": "1",
+      "wayName": "ПИ-16"
+    },
+    {
+      "groupId": "6",
+      "groupName": "ПИ-2-16",
+      "wayId": "1",
+      "wayName": "ПИ-16"
+    },
+    {
+      "groupId": "8",
+      "groupName": "ПИ-2-17",
+      "wayId": "2",
+      "wayName": "ПИ-17"
+    },
+    {
+      "groupId": "14",
+      "groupName": "ПИ-1-17",
+      "wayId": "2",
+      "wayName": "ПИ-17"
+    },
+    {
+      "groupId": "15",
+      "groupName": "ПИ-1-18",
+      "wayId": "7",
+      "wayName": "ПИ-18"
+    },
+    {
+      "groupId": "16",
+      "groupName": "ПИ-2-18",
+      "wayId": "7",
+      "wayName": "ПИ-18"
+    },
+    {
+      "groupId": "17",
+      "groupName": "ПИ-1-19",
+      "wayId": "8",
+      "wayName": "ПИ-19"
+    },
+    {
+      "groupId": "18",
+      "groupName": "ПИ-2-19",
+      "wayId": "8",
+      "wayName": "ПИ-19"
+    },
+    {
+      "groupId": "19",
+      "groupName": "ПИ-3-19",
+      "wayId": "8",
+      "wayName": "ПИ-19"
+    },
+    {
+      "groupId": "20",
+      "groupName": "ГМ-1-19",
+      "wayId": "12",
+      "wayName": "ГМ-19"
+    },
+    {
+      "groupId": "21",
+      "groupName": "БИ-1-16",
+      "wayId": "13",
+      "wayName": "БИ-16"
+    },
+    {
+      "groupId": "22",
+      "groupName": "БИ-2-16",
+      "wayId": "13",
+      "wayName": "БИ-16"
+    },
+    {
+      "groupId": "23",
+      "groupName": "ИТ-1-16",
+      "wayId": "14",
+      "wayName": "ИТ-16"
+    },
+    {
+      "groupId": "24",
+      "groupName": "ИБ-1-18",
+      "wayId": "15",
+      "wayName": "ИБ-18"
+    },
+    {
+      "groupId": "25",
+      "groupName": "ИБ-2-18",
+      "wayId": "15",
+      "wayName": "ИБ-18"
+    },
+    {
+      "groupId": "26",
+      "groupName": "ИСТ-1-19",
+      "wayId": "16",
+      "wayName": "ИСТ-19"
+    },
+    {
+      "groupId": "27",
+      "groupName": "ИСТ-2-19",
+      "wayId": "16",
+      "wayName": "ИСТ-19"
+    },
+    {
+      "groupId": "28",
+      "groupName": "ИСТ-1-18",
+      "wayId": "17",
+      "wayName": "ИСТ-18"
+    },
+    {
+      "groupId": "29",
+      "groupName": "ИСТ-2-18",
+      "wayId": "17",
+      "wayName": "ИСТ-18"
+    },
+    {
+      "groupId": "30",
+      "groupName": "ИСТ-1-16",
+      "wayId": "19",
+      "wayName": "ИСТ-16"
+    },
+    {
+      "groupId": "31",
+      "groupName": "ИСТ-2-16",
+      "wayId": "19",
+      "wayName": "ИСТ-16"
+    },
+    {
+      "groupId": "32",
+      "groupName": "ИСТ-3-16",
+      "wayId": "19",
+      "wayName": "ИСТ-16"
+    },
+    {
+      "groupId": "33",
+      "groupName": "ИСТ-1-17",
+      "wayId": "18",
+      "wayName": "ИСТ-17"
+    },
+    {
+      "groupId": "34",
+      "groupName": "ИСТ-2-17",
+      "wayId": "18",
+      "wayName": "ИСТ-17"
+    },
+    {
+      "groupId": "35",
+      "groupName": "ИБ-1-17",
+      "wayId": "20",
+      "wayName": "ИБ-17"
+    },
+    {
+      "groupId": "37",
+      "groupName": "ЭУ-12-16",
+      "wayId": "22",
+      "wayName": "ЭУ-16"
+    },
+    {
+      "groupId": "38",
+      "groupName": "ИВТ-1-19",
+      "wayId": "23",
+      "wayName": "ИВТ-19"
+    },
+    {
+      "groupId": "39",
+      "groupName": "ИВТ-2-19",
+      "wayId": "23",
+      "wayName": "ИВТ-19"
+    },
+    {
+      "groupId": "41",
+      "groupName": "ИВТ-1-17",
+      "wayId": "28",
+      "wayName": "ИВТ-17"
+    },
+    {
+      "groupId": "48",
+      "groupName": "ИВТ-1-18",
+      "wayId": "35",
+      "wayName": "ИВТ-18"
+    },
+    {
+      "groupId": "49",
+      "groupName": "ИВТ-2-18",
+      "wayId": "35",
+      "wayName": "ИВТ-18"
+    },
+    {
+      "groupId": "50",
+      "groupName": "ИБ-1-16",
+      "wayId": "42",
+      "wayName": "ИБ-16"
+    },
+    {
+      "groupId": "51",
+      "groupName": "БИ-1-17",
+      "wayId": "40",
+      "wayName": "БИ-17"
+    },
+    {
+      "groupId": "52",
+      "groupName": "ИТ-1-17",
+      "wayId": "41",
+      "wayName": "ИТ-17"
+    },
+    {
+      "groupId": "53",
+      "groupName": "ИТ-2-17",
+      "wayId": "41",
+      "wayName": "ИТ-17"
+    },
+    {
+      "groupId": "54",
+      "groupName": "ИТ-1-18",
+      "wayId": "36",
+      "wayName": "ИТ-18"
+    },
+    {
+      "groupId": "55",
+      "groupName": "ИТ-2-18",
+      "wayId": "36",
+      "wayName": "ИТ-18"
+    },
+    {
+      "groupId": "56",
+      "groupName": "БИ-1-18",
+      "wayId": "37",
+      "wayName": "БИ-18"
+    },
+    {
+      "groupId": "57",
+      "groupName": "БИ-2-18",
+      "wayId": "37",
+      "wayName": "БИ-18"
+    },
+    {
+      "groupId": "58",
+      "groupName": "БИ-1-19",
+      "wayId": "38",
+      "wayName": "БИ-19"
+    },
+    {
+      "groupId": "59",
+      "groupName": "ИТ-1-19",
+      "wayId": "39",
+      "wayName": "ИТ-19"
+    },
+    {
+      "groupId": "60",
+      "groupName": "ИТ-2-19",
+      "wayId": "39",
+      "wayName": "ИТ-19"
+    },
+    {
+      "groupId": "61",
+      "groupName": "ИВТ-1-16",
+      "wayId": "43",
+      "wayName": "ИВТ-16"
+    }
+  ]
+}

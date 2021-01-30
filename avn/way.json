@@ -1,0 +1,154 @@
+{
+  "ways": [
+    {
+      "wayId": "1",
+      "wayName": "ПИ-16",
+      "kafId": "3",
+      "kaId": 0
+    },
+    {
+      "wayId": "2",
+      "wayName": "ПИ-17",
+      "kafId": "3",
+      "kaId": 0
+    },
+    {
+      "wayId": "7",
+      "wayName": "ПИ-18",
+      "kafId": "3",
+      "kaId": 0
+    },
+    {
+      "wayId": "8",
+      "wayName": "ПИ-19",
+      "kafId": "3",
+      "kaId": 0
+    },
+    {
+      "wayId": "12",
+      "wayName": "ГМ-19",
+      "kafId": "12",
+      "kaId": 0
+    },
+    {
+      "wayId": "13",
+      "wayName": "БИ-16",
+      "kafId": "11",
+      "kaId": 0
+    },
+    {
+      "wayId": "14",
+      "wayName": "ИТ-16",
+      "kafId": "11",
+      "kaId": 0
+    },
+    {
+      "wayId": "15",
+      "wayName": "ИБ-18",
+      "kafId": "9",
+      "kaId": 0
+    },
+    {
+      "wayId": "16",
+      "wayName": "ИСТ-19",
+      "kafId": "9",
+      "kaId": 0
+    },
+    {
+      "wayId": "17",
+      "wayName": "ИСТ-18",
+      "kafId": "9",
+      "kaId": 0
+    },
+    {
+      "wayId": "18",
+      "wayName": "ИСТ-17",
+      "kafId": "9",
+      "kaId": 0
+    },
+    {
+      "wayId": "19",
+      "wayName": "ИСТ-16",
+      "kafId": "9",
+      "kaId": 0
+    },
+    {
+      "wayId": "20",
+      "wayName": "ИБ-17",
+      "kafId": "9",
+      "kaId": 0
+    },
+    {
+      "wayId": "22",
+      "wayName": "ЭУ-16",
+      "kafId": "18",
+      "kaId": 0
+    },
+    {
+      "wayId": "23",
+      "wayName": "ИВТ-19",
+      "kafId": "6",
+      "kaId": 0
+    },
+    {
+      "wayId": "28",
+      "wayName": "ИВТ-17",
+      "kafId": "6",
+      "kaId": 0
+    },
+    {
+      "wayId": "35",
+      "wayName": "ИВТ-18",
+      "kafId": "6",
+      "kaId": 0
+    },
+    {
+      "wayId": "36",
+      "wayName": "ИТ-18",
+      "kafId": "11",
+      "kaId": 0
+    },
+    {
+      "wayId": "37",
+      "wayName": "БИ-18",
+      "kafId": "11",
+      "kaId": 0
+    },
+    {
+      "wayId": "38",
+      "wayName": "БИ-19",
+      "kafId": "11",
+      "kaId": 0
+    },
+    {
+      "wayId": "39",
+      "wayName": "ИТ-19",
+      "kafId": "11",
+      "kaId": 0
+    },
+    {
+      "wayId": "40",
+      "wayName": "БИ-17",
+      "kafId": "11",
+      "kaId": 0
+    },
+    {
+      "wayId": "41",
+      "wayName": "ИТ-17",
+      "kafId": "11",
+      "kaId": 0
+    },
+    {
+      "wayId": "42",
+      "wayName": "ИБ-16",
+      "kafId": "9",
+      "kaId": 0
+    },
+    {
+      "wayId": "43",
+      "wayName": "ИВТ-16",
+      "kafId": "6",
+      "kaId": 0
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "teachers": [
+    {
+      "teacherId": "1",
+      "teacherName": "Абыкалый кызы Айпери",
+      "levelName": null
+    },
+    {
+      "teacherId": "2",
+      "teacherName": "Эралиев Ж.Т.",
+      "levelName": null
+    },
+    {
+      "teacherId": "5",
+      "teacherName": "Исаева Г.С.",
+      "levelName": null
+    },
+    {
+      "teacherId": "8",
+      "teacherName": "Алыбаева А.С.",
+      "levelName": null
+    },
+    {
+      "teacherId": "12",
+      "teacherName": "Турганбаева Н.Ж.",
+      "levelName": null
+    },
+    {
+      "teacherId": "13",
+      "teacherName": "Кыдырмаева С",
+      "levelName": null
+    },
+    {
+      "teacherId": "14",
+      "teacherName": "Талыпов К.К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "15",
+      "teacherName": "Джорупбеков С. Дж.",
+      "levelName": null
+    },
+    {
+      "teacherId": "16",
+      "teacherName": "Бегалиев С.А.",
+      "levelName": null
+    },
+    {
+      "teacherId": "17",
+      "teacherName": "Эсенаманова Г.К",
+      "levelName": null
+    },
+    {
+      "teacherId": "18",
+      "teacherName": "Чороев К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "19",
+      "teacherName": "Ткачман М.Л",
+      "levelName": null
+    },
+    {
+      "teacherId": "20",
+      "teacherName": "Иргебаева М.Н",
+      "levelName": null
+    },
+    {
+      "teacherId": "21",
+      "teacherName": "Кыдырмаева С",
+      "levelName": null
+    },
+    {
+      "teacherId": "22",
+      "teacherName": "Омуров М.Т.",
+      "levelName": null
+    },
+    {
+      "teacherId": "23",
+      "teacherName": "Баячорова Б.Ж.",
+      "levelName": null
+    },
+    {
+      "teacherId": "24",
+      "teacherName": "Баялиева Э.Ж.",
+      "levelName": null
+    },
+    {
+      "teacherId": "25",
+      "teacherName": "Тентиева А. А.",
+      "levelName": null
+    },
+    {
+      "teacherId": "26",
+      "teacherName": "Сыдыкова М.Б.",
+      "levelName": null
+    },
+    {
+      "teacherId": "27",
+      "teacherName": "Акматов А.М.",
+      "levelName": null
+    },
+    {
+      "teacherId": "28",
+      "teacherName": "Джорупбеков С.Дж.",
+      "levelName": null
+    },
+    {
+      "teacherId": "29",
+      "teacherName": "Кабаева З.К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "30",
+      "teacherName": "Дакинова З.К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "31",
+      "teacherName": "Ткачман М.Л.",
+      "levelName": null
+    },
+    {
+      "teacherId": "32",
+      "teacherName": "Болотбаев Д.С.",
+      "levelName": null
+    },
+    {
+      "teacherId": "33",
+      "teacherName": "Ажыманбетова Г.И.",
+      "levelName": null
+    },
+    {
+      "teacherId": "34",
+      "teacherName": "Кудайназарова К.Дж.",
+      "levelName": null
+    },
+    {
+      "teacherId": "37",
+      "teacherName": "Ашрахманова С.",
+      "levelName": null
+    },
+    {
+      "teacherId": "38",
+      "teacherName": "Рустамова Д.К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "39",
+      "teacherName": "Осмоналиева Г.К",
+      "levelName": null
+    },
+    {
+      "teacherId": "40",
+      "teacherName": "Медетов А.С.",
+      "levelName": null
+    },
+    {
+      "teacherId": "41",
+      "teacherName": "Кадыралиев Т.К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "44",
+      "teacherName": "Дуйшенов Р.С.",
+      "levelName": null
+    },
+    {
+      "teacherId": "45",
+      "teacherName": "Токтогулова Р.",
+      "levelName": null
+    },
+    {
+      "teacherId": "46",
+      "teacherName": "Асанбекова Д.",
+      "levelName": null
+    },
+    {
+      "teacherId": "50",
+      "teacherName": "Ашрахманова С.К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "51",
+      "teacherName": "Мамразакова С. Л.",
+      "levelName": null
+    },
+    {
+      "teacherId": "52",
+      "teacherName": "Жамалбеков М. Т",
+      "levelName": null
+    },
+    {
+      "teacherId": "53",
+      "teacherName": "Кулбачаев Д.К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "54",
+      "teacherName": "Аманкулов Т.Т.",
+      "levelName": null
+    },
+    {
+      "teacherId": "55",
+      "teacherName": "Кадыров Б.Ж.",
+      "levelName": null
+    },
+    {
+      "teacherId": "56",
+      "teacherName": "Джумалиева А.М.",
+      "levelName": null
+    },
+    {
+      "teacherId": "57",
+      "teacherName": "Базлакунова А.",
+      "levelName": null
+    },
+    {
+      "teacherId": "58",
+      "teacherName": " Каныбек к.Ж.",
+      "levelName": null
+    },
+    {
+      "teacherId": "59",
+      "teacherName": "Азимбаев Т.К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "60",
+      "teacherName": "Намазова Г.",
+      "levelName": null
+    },
+    {
+      "teacherId": "61",
+      "teacherName": "Медетов А.",
+      "levelName": null
+    },
+    {
+      "teacherId": "62",
+      "teacherName": "Джамагулов Э.Э.",
+      "levelName": null
+    },
+    {
+      "teacherId": "63",
+      "teacherName": "Жумадылова А.Ж.",
+      "levelName": null
+    },
+    {
+      "teacherId": "64",
+      "teacherName": "Осмоналиева Г.К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "65",
+      "teacherName": "Рослова И.Н.",
+      "levelName": null
+    },
+    {
+      "teacherId": "66",
+      "teacherName": "Храмцова Н.В.",
+      "levelName": null
+    },
+    {
+      "teacherId": "67",
+      "teacherName": "Изотов А.О.",
+      "levelName": null
+    },
+    {
+      "teacherId": "68",
+      "teacherName": "Джумабаев Б.",
+      "levelName": null
+    },
+    {
+      "teacherId": "69",
+      "teacherName": "Кыдырмаева С.",
+      "levelName": null
+    },
+    {
+      "teacherId": "70",
+      "teacherName": "Большакова Т.Н.",
+      "levelName": null
+    },
+    {
+      "teacherId": "72",
+      "teacherName": "Искендерова С.И.",
+      "levelName": null
+    },
+    {
+      "teacherId": "73",
+      "teacherName": "Тарасов И.С.",
+      "levelName": null
+    },
+    {
+      "teacherId": "74",
+      "teacherName": "Шадыбек у А.",
+      "levelName": null
+    },
+    {
+      "teacherId": "75",
+      "teacherName": "Жумабекова Н.Ж.",
+      "levelName": null
+    },
+    {
+      "teacherId": "76",
+      "teacherName": "Тентиева А.А.",
+      "levelName": null
+    },
+    {
+      "teacherId": "77",
+      "teacherName": "Баялиева Э.Ж.",
+      "levelName": null
+    },
+    {
+      "teacherId": "78",
+      "teacherName": "Шевелев А.С.",
+      "levelName": null
+    },
+    {
+      "teacherId": "79",
+      "teacherName": "Бийбосунова Г.И.",
+      "levelName": null
+    },
+    {
+      "teacherId": "80",
+      "teacherName": "Демиденко А.П.",
+      "levelName": null
+    },
+    {
+      "teacherId": "81",
+      "teacherName": "Балтобаева Б.К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "82",
+      "teacherName": "Утемисов К.У.",
+      "levelName": null
+    },
+    {
+      "teacherId": "83",
+      "teacherName": "Касымова Т.Дж.",
+      "levelName": null
+    },
+    {
+      "teacherId": "84",
+      "teacherName": "Жумабеков К.С.",
+      "levelName": null
+    },
+    {
+      "teacherId": "85",
+      "teacherName": "Евдокимов А.Н.",
+      "levelName": null
+    },
+    {
+      "teacherId": "86",
+      "teacherName": "Жолочиева Э.Т.",
+      "levelName": null
+    },
+    {
+      "teacherId": "87",
+      "teacherName": "Тоялиев С.",
+      "levelName": null
+    },
+    {
+      "teacherId": "88",
+      "teacherName": "Арзыгулова С.А.",
+      "levelName": null
+    },
+    {
+      "teacherId": "89",
+      "teacherName": " Сатимкулова С.А.",
+      "levelName": null
+    },
+    {
+      "teacherId": "90",
+      "teacherName": "Жумабаева Ч.Н.",
+      "levelName": null
+    },
+    {
+      "teacherId": "91",
+      "teacherName": "Базакечев Т.М.",
+      "levelName": null
+    },
+    {
+      "teacherId": "92",
+      "teacherName": "Жолочиева Э.Т.",
+      "levelName": null
+    },
+    {
+      "teacherId": "93",
+      "teacherName": "Сасыкулов А.Ш.",
+      "levelName": null
+    },
+    {
+      "teacherId": "94",
+      "teacherName": "Темирова А.К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "95",
+      "teacherName": "Панков П.С.",
+      "levelName": null
+    },
+    {
+      "teacherId": "96",
+      "teacherName": "Арзыгулова С.А.",
+      "levelName": null
+    },
+    {
+      "teacherId": "97",
+      "teacherName": "Сатимкулова С.А.",
+      "levelName": null
+    },
+    {
+      "teacherId": "98",
+      "teacherName": "Толобаева Э.А.",
+      "levelName": null
+    },
+    {
+      "teacherId": "101",
+      "teacherName": "Эсенаманова Г.К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "102",
+      "teacherName": "Чороев К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "103",
+      "teacherName": "Ткачман М.Л.",
+      "levelName": null
+    },
+    {
+      "teacherId": "104",
+      "teacherName": "Иргебаева М.Н.",
+      "levelName": null
+    },
+    {
+      "teacherId": "105",
+      "teacherName": "Кыдырмаева С.",
+      "levelName": null
+    },
+    {
+      "teacherId": "106",
+      "teacherName": "Сабитов Б.Р.",
+      "levelName": null
+    },
+    {
+      "teacherId": "107",
+      "teacherName": "Жадилов Б.",
+      "levelName": null
+    },
+    {
+      "teacherId": "108",
+      "teacherName": "Абалиева А.Д.",
+      "levelName": null
+    },
+    {
+      "teacherId": "109",
+      "teacherName": "Джунушалиева Б.А.",
+      "levelName": null
+    },
+    {
+      "teacherId": "110",
+      "teacherName": "Алмасбекова З.",
+      "levelName": null
+    },
+    {
+      "teacherId": "111",
+      "teacherName": "Нам И.Э.",
+      "levelName": null
+    },
+    {
+      "teacherId": "112",
+      "teacherName": "Элеманов Ч.З.",
+      "levelName": null
+    },
+    {
+      "teacherId": "113",
+      "teacherName": "Омуралиева Б.",
+      "levelName": null
+    },
+    {
+      "teacherId": "114",
+      "teacherName": "Апышова Ч.",
+      "levelName": null
+    },
+    {
+      "teacherId": "117",
+      "teacherName": "Кабаева З.К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "118",
+      "teacherName": "Дакинова З.К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "119",
+      "teacherName": "Ткачман М.Л.",
+      "levelName": null
+    },
+    {
+      "teacherId": "120",
+      "teacherName": "Болотбаев Д.С.",
+      "levelName": null
+    },
+    {
+      "teacherId": "121",
+      "teacherName": "Ажыманбетова Г.И.",
+      "levelName": null
+    },
+    {
+      "teacherId": "122",
+      "teacherName": "Нурдавлетова К.С.",
+      "levelName": null
+    },
+    {
+      "teacherId": "123",
+      "teacherName": "Апышева Г.Ж.",
+      "levelName": null
+    },
+    {
+      "teacherId": "124",
+      "teacherName": "Жолочиева Э.Т.",
+      "levelName": null
+    },
+    {
+      "teacherId": "125",
+      "teacherName": "Рустамова Д.К.",
+      "levelName": null
+    },
+    {
+      "teacherId": "126",
+      "teacherName": "Автандил кызы Г.",
+      "levelName": null
+    },
+    {
+      "teacherId": "127",
+      "teacherName": "Толобаева Э.А.",
+      "levelName": null
+    },
+    {
+      "teacherId": "128",
+      "teacherName": "Асантурова Т.А.",
+      "levelName": null
+    },
+    {
+      "teacherId": "129",
+      "teacherName": "Арзыгулова С.А.",
+      "levelName": null
+    },
+    {
+      "teacherId": "130",
+      "teacherName": "Кудайназарова К.Дж.",
+      "levelName": null
+    },
+    {
+      "teacherId": "131",
+      "teacherName": "Кыдыралиев Т.К.",
+      "levelName": null
+    }
+  ]
+}

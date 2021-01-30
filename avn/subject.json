@@ -1,0 +1,699 @@
+{
+  "subjects": [
+    {
+      "subjectId": "11",
+      "subjectName": "Гражданская права",
+      "wayId": "12"
+    },
+    {
+      "subjectId": "12",
+      "subjectName": "Муниципальный управление",
+      "wayId": "12"
+    },
+    {
+      "subjectId": "13",
+      "subjectName": "Сетевые технологий",
+      "wayId": "1"
+    },
+    {
+      "subjectId": "14",
+      "subjectName": "Иностранный язык",
+      "wayId": "38"
+    },
+    {
+      "subjectId": "15",
+      "subjectName": "Математика",
+      "wayId": "16"
+    },
+    {
+      "subjectId": "16",
+      "subjectName": "Геоинформационные системы",
+      "wayId": "1"
+    },
+    {
+      "subjectId": "17",
+      "subjectName": "Хранилище данных и интеллектуальный анализ данных",
+      "wayId": "1"
+    },
+    {
+      "subjectId": "18",
+      "subjectName": "Технологии командной разработки программного обеспечения",
+      "wayId": "1"
+    },
+    {
+      "subjectId": "24",
+      "subjectName": "Методы и средства защиты информации",
+      "wayId": "2"
+    },
+    {
+      "subjectId": "25",
+      "subjectName": "Методы оптимизации",
+      "wayId": "2"
+    },
+    {
+      "subjectId": "26",
+      "subjectName": "Объектно - ориентированное программирование ",
+      "wayId": "2"
+    },
+    {
+      "subjectId": "27",
+      "subjectName": "Информационные системы в экономике ",
+      "wayId": "2"
+    },
+    {
+      "subjectId": "28",
+      "subjectName": "Безопасность жизнедеятельности ",
+      "wayId": "2"
+    },
+    {
+      "subjectId": "29",
+      "subjectName": "Базы данных",
+      "wayId": "2"
+    },
+    {
+      "subjectId": "30",
+      "subjectName": "Разработка и анализ требований к программному обеспечению ",
+      "wayId": "2"
+    },
+    {
+      "subjectId": "35",
+      "subjectName": "Объектно ориентированное программирование ",
+      "wayId": "28"
+    },
+    {
+      "subjectId": "45",
+      "subjectName": "Информатика",
+      "wayId": "23"
+    },
+    {
+      "subjectId": "55",
+      "subjectName": "Манасоведение",
+      "wayId": "38"
+    },
+    {
+      "subjectId": "56",
+      "subjectName": "Русский язык",
+      "wayId": "38"
+    },
+    {
+      "subjectId": "57",
+      "subjectName": "Алгебра Русский язык привыкай ",
+      "wayId": "15"
+    },
+    {
+      "subjectId": "58",
+      "subjectName": "Химия и Физика",
+      "wayId": "15"
+    },
+    {
+      "subjectId": "59",
+      "subjectName": "Кыргыз тил",
+      "wayId": "8"
+    },
+    {
+      "subjectId": "60",
+      "subjectName": "Информатика",
+      "wayId": "8"
+    },
+    {
+      "subjectId": "61",
+      "subjectName": "Математический анализ",
+      "wayId": "8"
+    },
+    {
+      "subjectId": "62",
+      "subjectName": "Структурное программирование",
+      "wayId": "8"
+    },
+    {
+      "subjectId": "63",
+      "subjectName": "Физическая культура",
+      "wayId": "8"
+    },
+    {
+      "subjectId": "64",
+      "subjectName": "Манасоведение",
+      "wayId": "8"
+    },
+    {
+      "subjectId": "65",
+      "subjectName": "Иностранный язык",
+      "wayId": "8"
+    },
+    {
+      "subjectId": "66",
+      "subjectName": "Русский язык",
+      "wayId": "8"
+    },
+    {
+      "subjectId": "67",
+      "subjectName": "Правоведение",
+      "wayId": "8"
+    },
+    {
+      "subjectId": "68",
+      "subjectName": "Физика",
+      "wayId": "8"
+    },
+    {
+      "subjectId": "69",
+      "subjectName": "Математика",
+      "wayId": "38"
+    },
+    {
+      "subjectId": "70",
+      "subjectName": "Физическая культура",
+      "wayId": "38"
+    },
+    {
+      "subjectId": "71",
+      "subjectName": "Информатика",
+      "wayId": "38"
+    },
+    {
+      "subjectId": "72",
+      "subjectName": "Кыргызский язык и литература",
+      "wayId": "38"
+    },
+    {
+      "subjectId": "73",
+      "subjectName": "Введение в Web-технологии",
+      "wayId": "38"
+    },
+    {
+      "subjectId": "74",
+      "subjectName": "Иностранный язык",
+      "wayId": "39"
+    },
+    {
+      "subjectId": "75",
+      "subjectName": "Кыргызский язык и литература",
+      "wayId": "39"
+    },
+    {
+      "subjectId": "76",
+      "subjectName": "Манасоведение",
+      "wayId": "39"
+    },
+    {
+      "subjectId": "77",
+      "subjectName": "Русский язык",
+      "wayId": "39"
+    },
+    {
+      "subjectId": "78",
+      "subjectName": "Физическая культура",
+      "wayId": "39"
+    },
+    {
+      "subjectId": "79",
+      "subjectName": "Информатика",
+      "wayId": "39"
+    },
+    {
+      "subjectId": "80",
+      "subjectName": "Концепция современного естествознания",
+      "wayId": "39"
+    },
+    {
+      "subjectId": "81",
+      "subjectName": "Введение в Web-технологии",
+      "wayId": "39"
+    },
+    {
+      "subjectId": "82",
+      "subjectName": "Математика",
+      "wayId": "39"
+    },
+    {
+      "subjectId": "83",
+      "subjectName": "Технологии web программирования",
+      "wayId": "17"
+    },
+    {
+      "subjectId": "84",
+      "subjectName": "Электроника и электротехника",
+      "wayId": "17"
+    },
+    {
+      "subjectId": "85",
+      "subjectName": "Математическое программирование",
+      "wayId": "17"
+    },
+    {
+      "subjectId": "86",
+      "subjectName": "Методы оптимизации",
+      "wayId": "17"
+    },
+    {
+      "subjectId": "87",
+      "subjectName": "Документирование программных систем",
+      "wayId": "14"
+    },
+    {
+      "subjectId": "88",
+      "subjectName": "Проектирование информационных систем",
+      "wayId": "14"
+    },
+    {
+      "subjectId": "89",
+      "subjectName": "Программирование для мобильных платформ",
+      "wayId": "14"
+    },
+    {
+      "subjectId": "90",
+      "subjectName": "Тематический семинар по ВКР",
+      "wayId": "14"
+    },
+    {
+      "subjectId": "91",
+      "subjectName": "WEB-Database интеграция",
+      "wayId": "14"
+    },
+    {
+      "subjectId": "92",
+      "subjectName": "Принятие экономических решений",
+      "wayId": "13"
+    },
+    {
+      "subjectId": "93",
+      "subjectName": "Безопасность жизнедеятельности",
+      "wayId": "13"
+    },
+    {
+      "subjectId": "94",
+      "subjectName": "Проектирование информационных систем",
+      "wayId": "13"
+    },
+    {
+      "subjectId": "95",
+      "subjectName": "Документирование программных систем",
+      "wayId": "13"
+    },
+    {
+      "subjectId": "96",
+      "subjectName": "Тематический семинар по ВКР",
+      "wayId": "13"
+    },
+    {
+      "subjectId": "97",
+      "subjectName": "WEB-Database интеграция",
+      "wayId": "13"
+    },
+    {
+      "subjectId": "98",
+      "subjectName": "Системы программирования",
+      "wayId": "40"
+    },
+    {
+      "subjectId": "99",
+      "subjectName": "ВК: Введение в сетевые технологии Cisco",
+      "wayId": "40"
+    },
+    {
+      "subjectId": "100",
+      "subjectName": "Деловой английский язык",
+      "wayId": "40"
+    },
+    {
+      "subjectId": "101",
+      "subjectName": "Языки программирования",
+      "wayId": "40"
+    },
+    {
+      "subjectId": "102",
+      "subjectName": "Управление ИТ сервисами и контентом",
+      "wayId": "40"
+    },
+    {
+      "subjectId": "103",
+      "subjectName": "Моделирование бизнес процессов",
+      "wayId": "40"
+    },
+    {
+      "subjectId": "104",
+      "subjectName": "Системы программирования",
+      "wayId": "41"
+    },
+    {
+      "subjectId": "105",
+      "subjectName": "Алгоритмы и структуры данных",
+      "wayId": "41"
+    },
+    {
+      "subjectId": "106",
+      "subjectName": "Языки программирования",
+      "wayId": "41"
+    },
+    {
+      "subjectId": "107",
+      "subjectName": "Информационная безопасность и защита информации",
+      "wayId": "41"
+    },
+    {
+      "subjectId": "108",
+      "subjectName": "Компьютерные сети",
+      "wayId": "41"
+    },
+    {
+      "subjectId": "109",
+      "subjectName": "ВК: Введение в сетевые технологии Cisco",
+      "wayId": "41"
+    },
+    {
+      "subjectId": "110",
+      "subjectName": "Физ. воспитание",
+      "wayId": "36"
+    },
+    {
+      "subjectId": "111",
+      "subjectName": "Физика",
+      "wayId": "36"
+    },
+    {
+      "subjectId": "112",
+      "subjectName": "Теория вероятностей и математическая статистика",
+      "wayId": "36"
+    },
+    {
+      "subjectId": "113",
+      "subjectName": "Электроника и электротехника",
+      "wayId": "36"
+    },
+    {
+      "subjectId": "114",
+      "subjectName": "География",
+      "wayId": "36"
+    },
+    {
+      "subjectId": "115",
+      "subjectName": "Технологии баз данных",
+      "wayId": "36"
+    },
+    {
+      "subjectId": "116",
+      "subjectName": "Разработка клиент-серверных приложений",
+      "wayId": "36"
+    },
+    {
+      "subjectId": "117",
+      "subjectName": "Архитектура вычислительных систем и операционные системы",
+      "wayId": "36"
+    },
+    {
+      "subjectId": "118",
+      "subjectName": "История",
+      "wayId": "36"
+    },
+    {
+      "subjectId": "119",
+      "subjectName": "Физика",
+      "wayId": "37"
+    },
+    {
+      "subjectId": "120",
+      "subjectName": "Физ. воспитание",
+      "wayId": "37"
+    },
+    {
+      "subjectId": "121",
+      "subjectName": "География",
+      "wayId": "37"
+    },
+    {
+      "subjectId": "122",
+      "subjectName": "Технологии баз данных",
+      "wayId": "37"
+    },
+    {
+      "subjectId": "123",
+      "subjectName": "История",
+      "wayId": "37"
+    },
+    {
+      "subjectId": "124",
+      "subjectName": "Профессиональный английский язык",
+      "wayId": "37"
+    },
+    {
+      "subjectId": "125",
+      "subjectName": "Микроэкономика",
+      "wayId": "37"
+    },
+    {
+      "subjectId": "126",
+      "subjectName": "Бизнес инновации в сфере ИКТ",
+      "wayId": "37"
+    },
+    {
+      "subjectId": "127",
+      "subjectName": "Менеджмент",
+      "wayId": "37"
+    },
+    {
+      "subjectId": "128",
+      "subjectName": "Физическая культура",
+      "wayId": "7"
+    },
+    {
+      "subjectId": "129",
+      "subjectName": "Архитектура вычислительных систем",
+      "wayId": "7"
+    },
+    {
+      "subjectId": "130",
+      "subjectName": "Информационные технологии (на английском языке)",
+      "wayId": "7"
+    },
+    {
+      "subjectId": "131",
+      "subjectName": "Теория вероятностей и математическая статистика",
+      "wayId": "7"
+    },
+    {
+      "subjectId": "132",
+      "subjectName": "Алгоритмический язык",
+      "wayId": "7"
+    },
+    {
+      "subjectId": "133",
+      "subjectName": "География Кыргызстана",
+      "wayId": "7"
+    },
+    {
+      "subjectId": "134",
+      "subjectName": "Человеко машинное взаимодействие",
+      "wayId": "7"
+    },
+    {
+      "subjectId": "135",
+      "subjectName": "Web- программирование",
+      "wayId": "7"
+    },
+    {
+      "subjectId": "136",
+      "subjectName": "История Кыргызстана",
+      "wayId": "7"
+    },
+    {
+      "subjectId": "137",
+      "subjectName": "Основы веб программирования Django",
+      "wayId": "42"
+    },
+    {
+      "subjectId": "138",
+      "subjectName": "Интеллектуальные экспертные системы",
+      "wayId": "42"
+    },
+    {
+      "subjectId": "139",
+      "subjectName": "Криптографические протоколы",
+      "wayId": "42"
+    },
+    {
+      "subjectId": "140",
+      "subjectName": "Теоретико-числовые методы криптографии",
+      "wayId": "42"
+    },
+    {
+      "subjectId": "141",
+      "subjectName": "Методы оценки безопасности компьютерных систем",
+      "wayId": "42"
+    },
+    {
+      "subjectId": "142",
+      "subjectName": "Нейронные сети",
+      "wayId": "18"
+    },
+    {
+      "subjectId": "143",
+      "subjectName": "Технология обработки информации",
+      "wayId": "18"
+    },
+    {
+      "subjectId": "144",
+      "subjectName": "Технология программирования",
+      "wayId": "18"
+    },
+    {
+      "subjectId": "145",
+      "subjectName": "Методы и средства проектирования информационных систем",
+      "wayId": "18"
+    },
+    {
+      "subjectId": "146",
+      "subjectName": "Основы бэкенд технологий",
+      "wayId": "18"
+    },
+    {
+      "subjectId": "147",
+      "subjectName": "Инструментальные средства ИС",
+      "wayId": "18"
+    },
+    {
+      "subjectId": "148",
+      "subjectName": "Техническая защита информации",
+      "wayId": "20"
+    },
+    {
+      "subjectId": "149",
+      "subjectName": "Вычислительные сети",
+      "wayId": "20"
+    },
+    {
+      "subjectId": "150",
+      "subjectName": "Разработка современных бекенд веб приложений",
+      "wayId": "20"
+    },
+    {
+      "subjectId": "151",
+      "subjectName": "Разработка Андроид приложений",
+      "wayId": "20"
+    },
+    {
+      "subjectId": "152",
+      "subjectName": "Сети и системы передачи информации",
+      "wayId": "20"
+    },
+    {
+      "subjectId": "153",
+      "subjectName": "Безопасность вычислительных систем",
+      "wayId": "20"
+    },
+    {
+      "subjectId": "154",
+      "subjectName": "Технологии на Django",
+      "wayId": "19"
+    },
+    {
+      "subjectId": "155",
+      "subjectName": "Архитектура ИС",
+      "wayId": "19"
+    },
+    {
+      "subjectId": "156",
+      "subjectName": "Программирование под Андроид",
+      "wayId": "19"
+    },
+    {
+      "subjectId": "157",
+      "subjectName": "Технологии интернет программирования",
+      "wayId": "19"
+    },
+    {
+      "subjectId": "158",
+      "subjectName": "Технологии Машинного обучения",
+      "wayId": "19"
+    },
+    {
+      "subjectId": "159",
+      "subjectName": "Русский язык",
+      "wayId": "23"
+    },
+    {
+      "subjectId": "160",
+      "subjectName": "Математика",
+      "wayId": "23"
+    },
+    {
+      "subjectId": "161",
+      "subjectName": "Кыргызский язык и литература",
+      "wayId": "23"
+    },
+    {
+      "subjectId": "162",
+      "subjectName": "Манасоведение",
+      "wayId": "23"
+    },
+    {
+      "subjectId": "163",
+      "subjectName": "ЭВМ и периферийные устройства",
+      "wayId": "23"
+    },
+    {
+      "subjectId": "164",
+      "subjectName": "Физическая культура",
+      "wayId": "23"
+    },
+    {
+      "subjectId": "165",
+      "subjectName": "Иностранный язык",
+      "wayId": "23"
+    },
+    {
+      "subjectId": "166",
+      "subjectName": "Физика",
+      "wayId": "23"
+    },
+    {
+      "subjectId": "167",
+      "subjectName": "Программирование",
+      "wayId": "28"
+    },
+    {
+      "subjectId": "168",
+      "subjectName": "Базы данных",
+      "wayId": "23"
+    },
+    {
+      "subjectId": "169",
+      "subjectName": "Проектирование АСОИУ",
+      "wayId": "28"
+    },
+    {
+      "subjectId": "170",
+      "subjectName": "Теория игр и исследование операции",
+      "wayId": "28"
+    },
+    {
+      "subjectId": "171",
+      "subjectName": "Разработка клиент-серверных приложений",
+      "wayId": "28"
+    },
+    {
+      "subjectId": "172",
+      "subjectName": "Базы данных",
+      "wayId": "28"
+    },
+    {
+      "subjectId": "173",
+      "subjectName": "Защита информации",
+      "wayId": "28"
+    },
+    {
+      "subjectId": "174",
+      "subjectName": "Технология командной разработки программного обеспечения",
+      "wayId": "43"
+    },
+    {
+      "subjectId": "175",
+      "subjectName": "Проектирование и архитектура программных систем",
+      "wayId": "43"
+    },
+    {
+      "subjectId": "176",
+      "subjectName": "Проектирование и разработка вычтслительных систем",
+      "wayId": "43"
+    }
+  ]
+}

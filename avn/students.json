@@ -1,0 +1,2517 @@
+{
+ "students": [
+  {
+   "studentId": "2",
+   "studentName": "Авдалимбаев Бекжан Замирбекович",
+   "studentLogin": "16/3001",
+   "groupId": "6",
+   "groupName": "ПИ-2-16"
+  },
+  {
+   "studentId": "21",
+   "studentName": "Абдумаминов Азиз Расулович",
+   "studentLogin": "19/16249",
+   "groupId": "17",
+   "groupName": "ПИ-1-19"
+  },
+  {
+   "studentId": "22",
+   "studentName": "Абдыбеков Эркинтур Абдыбекович",
+   "studentLogin": "19/13375",
+   "groupId": "18",
+   "groupName": "ПИ-2-19"
+  },
+  {
+   "studentId": "23",
+   "studentName": "Айтматова Канымгул ",
+   "studentLogin": "19/19069",
+   "groupId": "18",
+   "groupName": "ПИ-2-19"
+  },
+  {
+   "studentId": "24",
+   "studentName": "Алтынбек кызы Айжамал ",
+   "studentLogin": "19/12187",
+   "groupId": "19",
+   "groupName": "ПИ-3-19"
+  },
+  {
+   "studentId": "25",
+   "studentName": "Алтынбек уулу  Элмирбек ",
+   "studentLogin": "19/15825",
+   "groupId": "19",
+   "groupName": "ПИ-3-19"
+  },
+  {
+   "studentId": "26",
+   "studentName": "Анварбек уулу Акай ",
+   "studentLogin": "19/13979",
+   "groupId": "18",
+   "groupName": "ПИ-2-19"
+  },
+  {
+   "studentId": "27",
+   "studentName": "Аскарбекова Нурай Аскарбековна",
+   "studentLogin": "19/15816",
+   "groupId": "17",
+   "groupName": "ПИ-1-19"
+  },
+  {
+   "studentId": "28",
+   "studentName": "Бактыбек уулу Бакболот ",
+   "studentLogin": "19/12368",
+   "groupId": "18",
+   "groupName": "ПИ-2-19"
+  },
+  {
+   "studentId": "29",
+   "studentName": "Бостанов Муслим Азнаурович",
+   "studentLogin": "19/11035",
+   "groupId": "17",
+   "groupName": "ПИ-1-19"
+  },
+  {
+   "studentId": "30",
+   "studentName": "Джолдошев Арстанбек Усенович",
+   "studentLogin": "19/15598",
+   "groupId": "17",
+   "groupName": "ПИ-1-19"
+  },
+  {
+   "studentId": "31",
+   "studentName": "Жумабаев Айдар Жумабаевич",
+   "studentLogin": "19/15326",
+   "groupId": "19",
+   "groupName": "ПИ-3-19"
+  },
+  {
+   "studentId": "32",
+   "studentName": "Ильясов Адилет Ильясович",
+   "studentLogin": "19/13246",
+   "groupId": "18",
+   "groupName": "ПИ-2-19"
+  },
+  {
+   "studentId": "33",
+   "studentName": "Кайымова Айзада Калтороевна",
+   "studentLogin": "19/12043",
+   "groupId": "18",
+   "groupName": "ПИ-2-19"
+  },
+  {
+   "studentId": "34",
+   "studentName": "Максатбек уулу  Марс ",
+   "studentLogin": "19/12056",
+   "groupId": "17",
+   "groupName": "ПИ-1-19"
+  },
+  {
+   "studentId": "35",
+   "studentName": "Марат уулу Аскар",
+   "studentLogin": "19/13205",
+   "groupId": "19",
+   "groupName": "ПИ-3-19"
+  },
+  {
+   "studentId": "36",
+   "studentName": "Муратбеков Тариэл Муратбекович",
+   "studentLogin": "19/16498",
+   "groupId": "18",
+   "groupName": "ПИ-2-19"
+  },
+  {
+   "studentId": "37",
+   "studentName": "Мурзакулов Самат Максатович",
+   "studentLogin": "19/13677",
+   "groupId": "17",
+   "groupName": "ПИ-1-19"
+  },
+  {
+   "studentId": "38",
+   "studentName": "Насирдин уулу  Нур-Мухаммад ",
+   "studentLogin": "19/12615",
+   "groupId": "17",
+   "groupName": "ПИ-1-19"
+  },
+  {
+   "studentId": "39",
+   "studentName": "Нурболот уулу  Дастан ",
+   "studentLogin": "19/11823",
+   "groupId": "17",
+   "groupName": "ПИ-1-19"
+  },
+  {
+   "studentId": "40",
+   "studentName": "Сартбаева Алтын Арзыматовна",
+   "studentLogin": "19/12533",
+   "groupId": "19",
+   "groupName": "ПИ-3-19"
+  },
+  {
+   "studentId": "42",
+   "studentName": "Сатиева Тумаржан Адилбековна",
+   "studentLogin": "19/15535",
+   "groupId": "17",
+   "groupName": "ПИ-1-19"
+  },
+  {
+   "studentId": "43",
+   "studentName": "Советбеков Айдар Сүйүнбекович",
+   "studentLogin": "19/14093",
+   "groupId": "18",
+   "groupName": "ПИ-2-19"
+  },
+  {
+   "studentId": "44",
+   "studentName": "Сулайманов  Уланбек Дооранбекович",
+   "studentLogin": "19/16294",
+   "groupId": "19",
+   "groupName": "ПИ-3-19"
+  },
+  {
+   "studentId": "45",
+   "studentName": "Турсункулова Альбина Эльдияровна",
+   "studentLogin": "19/16691",
+   "groupId": "17",
+   "groupName": "ПИ-1-19"
+  },
+  {
+   "studentId": "46",
+   "studentName": "Улан уулу Бексултан ",
+   "studentLogin": "19/11816",
+   "groupId": "18",
+   "groupName": "ПИ-2-19"
+  },
+  {
+   "studentId": "47",
+   "studentName": "Усенов Нурсултан Кадырбекович",
+   "studentLogin": "19/12727",
+   "groupId": "18",
+   "groupName": "ПИ-2-19"
+  },
+  {
+   "studentId": "48",
+   "studentName": "Чыйбылов Эдуард Асылбекович",
+   "studentLogin": "19/16257",
+   "groupId": "19",
+   "groupName": "ПИ-3-19"
+  },
+  {
+   "studentId": "49",
+   "studentName": "Шайдиев Нуржигит Абдымомунович",
+   "studentLogin": "19/16499",
+   "groupId": "19",
+   "groupName": "ПИ-3-19"
+  },
+  {
+   "studentId": "50",
+   "studentName": "Шакирова Нуриза Мекеновна",
+   "studentLogin": "19/11982",
+   "groupId": "19",
+   "groupName": "ПИ-3-19"
+  },
+  {
+   "studentId": "51",
+   "studentName": "Шаршенбек уулу Кайрат ",
+   "studentLogin": "19/16055",
+   "groupId": "19",
+   "groupName": "ПИ-3-19"
+  },
+  {
+   "studentId": "52",
+   "studentName": "Шыгайбаева Каныкей Орозобековна",
+   "studentLogin": "19/12051",
+   "groupId": "18",
+   "groupName": "ПИ-2-19"
+  },
+  {
+   "studentId": "53",
+   "studentName": "Айнилов Аман  Женишович",
+   "studentLogin": "18/4701",
+   "groupId": "16",
+   "groupName": "ПИ-2-18"
+  },
+  {
+   "studentId": "54",
+   "studentName": "Бакболотов Нуржан Бакболотович",
+   "studentLogin": "19/17746350",
+   "groupId": "16",
+   "groupName": "ПИ-2-18"
+  },
+  {
+   "studentId": "55",
+   "studentName": "Джекишев Дастан Талантович",
+   "studentLogin": "18/1553",
+   "groupId": "16",
+   "groupName": "ПИ-2-18"
+  },
+  {
+   "studentId": "57",
+   "studentName": "Замир уулу  Элдос  ",
+   "studentLogin": "18/2192",
+   "groupId": "16",
+   "groupName": "ПИ-2-18"
+  },
+  {
+   "studentId": "58",
+   "studentName": "Каныбек уулу Насип ",
+   "studentLogin": "18/6266",
+   "groupId": "16",
+   "groupName": "ПИ-2-18"
+  },
+  {
+   "studentId": "59",
+   "studentName": "Мамадалиев  Азамат Дастан Науфальевич",
+   "studentLogin": "18/1024",
+   "groupId": "16",
+   "groupName": "ПИ-2-18"
+  },
+  {
+   "studentId": "60",
+   "studentName": "Нарманов Тимур Кубанычбекович",
+   "studentLogin": "18/4677",
+   "groupId": "16",
+   "groupName": "ПИ-2-18"
+  },
+  {
+   "studentId": "61",
+   "studentName": "Эстебесова  Санрабига Мирланбековна",
+   "studentLogin": "18/6060",
+   "groupId": "16",
+   "groupName": "ПИ-2-18"
+  },
+  {
+   "studentId": "62",
+   "studentName": "Алмазбек уулу  Жоомарт ",
+   "studentLogin": "18/1079",
+   "groupId": "15",
+   "groupName": "ПИ-1-18"
+  },
+  {
+   "studentId": "63",
+   "studentName": "Болотбеков  Кайрат  Болотбекович",
+   "studentLogin": "18/6125",
+   "groupId": "15",
+   "groupName": "ПИ-1-18"
+  },
+  {
+   "studentId": "64",
+   "studentName": "Вудуньян Нурсултан Рашидович",
+   "studentLogin": "18/3582",
+   "groupId": "15",
+   "groupName": "ПИ-1-18"
+  },
+  {
+   "studentId": "65",
+   "studentName": "Гудажанов Нур-Исмаил Мусаевич",
+   "studentLogin": "18/7946",
+   "groupId": "15",
+   "groupName": "ПИ-1-18"
+  },
+  {
+   "studentId": "66",
+   "studentName": "Джумакеева  Рыскуль  Талгатовна",
+   "studentLogin": "18/2941",
+   "groupId": "15",
+   "groupName": "ПИ-1-18"
+  },
+  {
+   "studentId": "67",
+   "studentName": "Хамдамова  Каухар  Таласбековна ",
+   "studentLogin": "18/3218",
+   "groupId": "15",
+   "groupName": "ПИ-1-18"
+  },
+  {
+   "studentId": "68",
+   "studentName": "Шамыралиева  Зейнеп Даировна",
+   "studentLogin": "18/5477",
+   "groupId": "15",
+   "groupName": "ПИ-1-18"
+  },
+  {
+   "studentId": "69",
+   "studentName": "Абдикаримов Бөрүбай Салыевич",
+   "studentLogin": "17/1000",
+   "groupId": "14",
+   "groupName": "ПИ-1-17"
+  },
+  {
+   "studentId": "70",
+   "studentName": "Алмазбек уулу Таалайбек ",
+   "studentLogin": "17/1001",
+   "groupId": "14",
+   "groupName": "ПИ-1-17"
+  },
+  {
+   "studentId": "71",
+   "studentName": "Дайырбеков Айбек Дайырбекович",
+   "studentLogin": "17/1002",
+   "groupId": "14",
+   "groupName": "ПИ-1-17"
+  },
+  {
+   "studentId": "72",
+   "studentName": "Исмаилов Нурсейит  Абсаматович",
+   "studentLogin": "18/17744624",
+   "groupId": "14",
+   "groupName": "ПИ-1-17"
+  },
+  {
+   "studentId": "73",
+   "studentName": "Нусубалиев Марлен Алмазбекович",
+   "studentLogin": "17/1003",
+   "groupId": "14",
+   "groupName": "ПИ-1-17"
+  },
+  {
+   "studentId": "74",
+   "studentName": "Османалиев Анвар Даниярович",
+   "studentLogin": "17/1004",
+   "groupId": "14",
+   "groupName": "ПИ-1-17"
+  },
+  {
+   "studentId": "75",
+   "studentName": "Рысбеков Тилеген Элдосович",
+   "studentLogin": "17/1005",
+   "groupId": "14",
+   "groupName": "ПИ-1-17"
+  },
+  {
+   "studentId": "76",
+   "studentName": "Сарымсаков Элдар Даниярович",
+   "studentLogin": "17/1006",
+   "groupId": "14",
+   "groupName": "ПИ-1-17"
+  },
+  {
+   "studentId": "77",
+   "studentName": "Умаров Рысбек Улукбекович",
+   "studentLogin": "17/1007",
+   "groupId": "14",
+   "groupName": "ПИ-1-17"
+  },
+  {
+   "studentId": "78",
+   "studentName": "Акылбекова Хадича Акылбековна",
+   "studentLogin": "17/2001",
+   "groupId": "8",
+   "groupName": "ПИ-2-17"
+  },
+  {
+   "studentId": "79",
+   "studentName": "Аюпов Абдурахим Хусейнович",
+   "studentLogin": "17/2002",
+   "groupId": "8",
+   "groupName": "ПИ-2-17"
+  },
+  {
+   "studentId": "80",
+   "studentName": "Өмүрбек уулу Нуртилек ",
+   "studentLogin": "17/2003",
+   "groupId": "8",
+   "groupName": "ПИ-2-17"
+  },
+  {
+   "studentId": "81",
+   "studentName": "Озекеев Марлис Жыргалбекович",
+   "studentLogin": "18/17744623",
+   "groupId": "8",
+   "groupName": "ПИ-2-17"
+  },
+  {
+   "studentId": "82",
+   "studentName": "Октомбеков Нурсултан Октомбекович",
+   "studentLogin": "17/2004",
+   "groupId": "8",
+   "groupName": "ПИ-2-17"
+  },
+  {
+   "studentId": "83",
+   "studentName": "Олжобаев  Садыр Туратбекович",
+   "studentLogin": "18/17744558",
+   "groupId": "8",
+   "groupName": "ПИ-2-17"
+  },
+  {
+   "studentId": "84",
+   "studentName": "Тулендиев Саддам Адиханович",
+   "studentLogin": "17/2005",
+   "groupId": "8",
+   "groupName": "ПИ-2-17"
+  },
+  {
+   "studentId": "85",
+   "studentName": "Тургунбаев Бакыт Эрнисович",
+   "studentLogin": "17/2006",
+   "groupId": "8",
+   "groupName": "ПИ-2-17"
+  },
+  {
+   "studentId": "86",
+   "studentName": "Абдыкулов Дастан Самарбекович",
+   "studentLogin": "16/1001",
+   "groupId": "1",
+   "groupName": "ПИ-1-16"
+  },
+  {
+   "studentId": "87",
+   "studentName": "Айталиев Айтбек Анаркулович",
+   "studentLogin": "16/1002",
+   "groupId": "1",
+   "groupName": "ПИ-1-16"
+  },
+  {
+   "studentId": "88",
+   "studentName": "Анарбеков Кубан Анарбекович",
+   "studentLogin": "16/1003",
+   "groupId": "1",
+   "groupName": "ПИ-1-16"
+  },
+  {
+   "studentId": "89",
+   "studentName": "Байызбекова Назгул Нуржигитовна",
+   "studentLogin": "16/1004",
+   "groupId": "1",
+   "groupName": "ПИ-1-16"
+  },
+  {
+   "studentId": "90",
+   "studentName": "Карпекова Бегаим Аскаровна",
+   "studentLogin": "16/1005",
+   "groupId": "1",
+   "groupName": "ПИ-1-16"
+  },
+  {
+   "studentId": "91",
+   "studentName": "Касмамбетов Канат Жээнбекович",
+   "studentLogin": "16/1006",
+   "groupId": "1",
+   "groupName": "ПИ-1-16"
+  },
+  {
+   "studentId": "92",
+   "studentName": "Ким Дмитрий Владимирович",
+   "studentLogin": "16/1007",
+   "groupId": "1",
+   "groupName": "ПИ-1-16"
+  },
+  {
+   "studentId": "93",
+   "studentName": "Куваков Элчибек Кеңешбекович",
+   "studentLogin": "18/17740290",
+   "groupId": "1",
+   "groupName": "ПИ-1-16"
+  },
+  {
+   "studentId": "94",
+   "studentName": "Нышанбаев Альберт Нышанбаевич",
+   "studentLogin": "77/777",
+   "groupId": "1",
+   "groupName": "ПИ-1-16"
+  },
+  {
+   "studentId": "95",
+   "studentName": "Сатинбаев Мирхат Исматиллаевич",
+   "studentLogin": "16/1008",
+   "groupId": "1",
+   "groupName": "ПИ-1-16"
+  },
+  {
+   "studentId": "96",
+   "studentName": "Жумашов Омурбек Жапарович",
+   "studentLogin": "16/3002",
+   "groupId": "1",
+   "groupName": "ПИ-1-16"
+  },
+  {
+   "studentId": "97",
+   "studentName": "Акылбеков Адилет Акылбекович",
+   "studentLogin": "16/2001",
+   "groupId": "6",
+   "groupName": "ПИ-2-16"
+  },
+  {
+   "studentId": "98",
+   "studentName": "Батыров  Жаркынбек Борукулович",
+   "studentLogin": "16/3000",
+   "groupId": "6",
+   "groupName": "ПИ-2-16"
+  },
+  {
+   "studentId": "99",
+   "studentName": "Кубатова Гулназ Эрнестовна",
+   "studentLogin": "16/2003",
+   "groupId": "6",
+   "groupName": "ПИ-2-16"
+  },
+  {
+   "studentId": "100",
+   "studentName": "Кудайбергенов  Бекназар Камчыбекович",
+   "studentLogin": "18/17744618",
+   "groupId": "6",
+   "groupName": "ПИ-2-16"
+  },
+  {
+   "studentId": "101",
+   "studentName": "Маматбеков Шерислам Айбекович",
+   "studentLogin": "99/9999",
+   "groupId": "6",
+   "groupName": "ПИ-2-16"
+  },
+  {
+   "studentId": "102",
+   "studentName": "Мамыразак уулу Канатбек ",
+   "studentLogin": "16/2004",
+   "groupId": "6",
+   "groupName": "ПИ-2-16"
+  },
+  {
+   "studentId": "103",
+   "studentName": "Суйунбек кызы Айнура  ",
+   "studentLogin": "19/17746398",
+   "groupId": "6",
+   "groupName": "ПИ-2-16"
+  },
+  {
+   "studentId": "104",
+   "studentName": "Токторбай уулу  Айдын  ",
+   "studentLogin": "18/17744612",
+   "groupId": "6",
+   "groupName": "ПИ-2-16"
+  },
+  {
+   "studentId": "105",
+   "studentName": "Усоналиев Тимур Талантбекович",
+   "studentLogin": "16/2005",
+   "groupId": "6",
+   "groupName": "ПИ-2-16"
+  },
+  {
+   "studentId": "107",
+   "studentName": "Чеченбеков Даниэл Дайырович",
+   "studentLogin": "16/2020",
+   "groupId": "37",
+   "groupName": "ЭУ-12-16"
+  },
+  {
+   "studentId": "108",
+   "studentName": "Абдыкерим уулу  Элдос ",
+   "studentLogin": "19/16165",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "109",
+   "studentName": "Акматова Айсулуу Мыктыбековна",
+   "studentLogin": "19/12001",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "110",
+   "studentName": "Акчалов Айбек Бахадырович",
+   "studentLogin": "19/16045",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "111",
+   "studentName": "Алмазбек уулу Алманбет ",
+   "studentLogin": "19/17881",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "112",
+   "studentName": "Асангариева Каныкей Турдубековна",
+   "studentLogin": "19/19583",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "113",
+   "studentName": "Батырбеков Илим Батырбекович",
+   "studentLogin": "19/18161",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "114",
+   "studentName": "Борбуев Султан Шаадатбекович",
+   "studentLogin": "19/16118",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "115",
+   "studentName": "Жээнкулов Улан Жыргалбекович",
+   "studentLogin": "19/15957",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "116",
+   "studentName": "Канатбек уулу Данияр ",
+   "studentLogin": "19/17993",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "117",
+   "studentName": "Кубатбеков Санжарбек Кубатбекович",
+   "studentLogin": "19/11537",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "118",
+   "studentName": "Нарынбекова Алия Нарынбековна",
+   "studentLogin": "19/13640",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "119",
+   "studentName": "Сабырбек уулу  Сыймык ",
+   "studentLogin": "19/15508",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "120",
+   "studentName": "Союзбек уулу  Сүйүнбек ",
+   "studentLogin": "19/13099",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "121",
+   "studentName": "Таалайбек уулу  Атагелди ",
+   "studentLogin": "19/17994",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "122",
+   "studentName": "Талантбекова Бермет Талантбековна",
+   "studentLogin": "19/19743",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "123",
+   "studentName": "Темирбеков Нурпаис Туратбекович",
+   "studentLogin": "19/15822",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "124",
+   "studentName": "Шаршенбаева Уулча Муратовна",
+   "studentLogin": "19/16306",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "125",
+   "studentName": "Эсенбаев Тынчтыкбек Женишбекович",
+   "studentLogin": "19/13106",
+   "groupId": "38",
+   "groupName": "ИВТ-1-19"
+  },
+  {
+   "studentId": "152",
+   "studentName": "Базаркулов Бейкут Кумонович",
+   "studentLogin": "19/15151",
+   "groupId": "24",
+   "groupName": "ИБ-1-18"
+  },
+  {
+   "studentId": "153",
+   "studentName": "Дуйшөбаева Айтолкун Чубаковна",
+   "studentLogin": "18/6701",
+   "groupId": "24",
+   "groupName": "ИБ-1-18"
+  },
+  {
+   "studentId": "154",
+   "studentName": "Жайчыбек уулу Адил",
+   "studentLogin": "18/5186",
+   "groupId": "24",
+   "groupName": "ИБ-1-18"
+  },
+  {
+   "studentId": "155",
+   "studentName": "Бексултанов Самат Жеңишович",
+   "studentLogin": "18/5000",
+   "groupId": "24",
+   "groupName": "ИБ-1-18"
+  },
+  {
+   "studentId": "156",
+   "studentName": "Карасаев Акыл Аскарович",
+   "studentLogin": "18/0723",
+   "groupId": "24",
+   "groupName": "ИБ-1-18"
+  },
+  {
+   "studentId": "157",
+   "studentName": "Калеков Алишер Эрикович",
+   "studentLogin": "18/1695",
+   "groupId": "24",
+   "groupName": "ИБ-1-18"
+  },
+  {
+   "studentId": "158",
+   "studentName": "Кенемтеева Альбина Алмазбековна",
+   "studentLogin": "18/7156",
+   "groupId": "24",
+   "groupName": "ИБ-1-18"
+  },
+  {
+   "studentId": "159",
+   "studentName": "Мирлан уулу Нуразиз",
+   "studentLogin": "18/5976",
+   "groupId": "24",
+   "groupName": "ИБ-1-18"
+  },
+  {
+   "studentId": "160",
+   "studentName": "Розахунов Бахтияр Мусаджанович",
+   "studentLogin": "18/5112",
+   "groupId": "24",
+   "groupName": "ИБ-1-18"
+  },
+  {
+   "studentId": "161",
+   "studentName": "Алымбеков Нурбек",
+   "studentLogin": "16/7201",
+   "groupId": "21",
+   "groupName": "БИ-1-16"
+  },
+  {
+   "studentId": "162",
+   "studentName": "Аскаров Данияр",
+   "studentLogin": "16/7202",
+   "groupId": "21",
+   "groupName": "БИ-1-16"
+  },
+  {
+   "studentId": "163",
+   "studentName": "Бодяйкин Даниил",
+   "studentLogin": "16/7203",
+   "groupId": "21",
+   "groupName": "БИ-1-16"
+  },
+  {
+   "studentId": "164",
+   "studentName": "Джаныбек уулу Тологон",
+   "studentLogin": "16/7204",
+   "groupId": "21",
+   "groupName": "БИ-1-16"
+  },
+  {
+   "studentId": "165",
+   "studentName": "Камбаров Азис",
+   "studentLogin": "16/7205",
+   "groupId": "21",
+   "groupName": "БИ-1-16"
+  },
+  {
+   "studentId": "166",
+   "studentName": "Токтосунова Мадина",
+   "studentLogin": "16/7206",
+   "groupId": "21",
+   "groupName": "БИ-1-16"
+  },
+  {
+   "studentId": "167",
+   "studentName": "Таалайбеков Канатбек",
+   "studentLogin": "16/7207",
+   "groupId": "21",
+   "groupName": "БИ-1-16"
+  },
+  {
+   "studentId": "168",
+   "studentName": "Нусупов Эрназар",
+   "studentLogin": "16/7208",
+   "groupId": "21",
+   "groupName": "БИ-1-16"
+  },
+  {
+   "studentId": "169",
+   "studentName": "Ченцов Евгений",
+   "studentLogin": "16/7209",
+   "groupId": "21",
+   "groupName": "БИ-1-16"
+  },
+  {
+   "studentId": "170",
+   "studentName": "Урпоев Байыш",
+   "studentLogin": "16/7210",
+   "groupId": "21",
+   "groupName": "БИ-1-16"
+  },
+  {
+   "studentId": "171",
+   "studentName": "Якубов Тулкин",
+   "studentLogin": "16/7211",
+   "groupId": "21",
+   "groupName": "БИ-1-16"
+  },
+  {
+   "studentId": "172",
+   "studentName": "Айдакеев Улукбек",
+   "studentLogin": "16/7301",
+   "groupId": "22",
+   "groupName": "БИ-2-16"
+  },
+  {
+   "studentId": "173",
+   "studentName": "Алимжанов Ахунжан",
+   "studentLogin": "16/7302",
+   "groupId": "22",
+   "groupName": "БИ-2-16"
+  },
+  {
+   "studentId": "174",
+   "studentName": "Алыкулова Эрика",
+   "studentLogin": "16/7303",
+   "groupId": "22",
+   "groupName": "БИ-2-16"
+  },
+  {
+   "studentId": "175",
+   "studentName": "Дуйшеев Жоомарт",
+   "studentLogin": "16/7304",
+   "groupId": "22",
+   "groupName": "БИ-2-16"
+  },
+  {
+   "studentId": "176",
+   "studentName": "Женишбеков Ислам",
+   "studentLogin": "16/7305",
+   "groupId": "22",
+   "groupName": "БИ-2-16"
+  },
+  {
+   "studentId": "177",
+   "studentName": "Исаев Бахшибек",
+   "studentLogin": "16/7306",
+   "groupId": "22",
+   "groupName": "БИ-2-16"
+  },
+  {
+   "studentId": "178",
+   "studentName": "Кенжебай у.Медер",
+   "studentLogin": "16/7307",
+   "groupId": "22",
+   "groupName": "БИ-2-16"
+  },
+  {
+   "studentId": "179",
+   "studentName": "Ниязова Фатима",
+   "studentLogin": "16/7308",
+   "groupId": "22",
+   "groupName": "БИ-2-16"
+  },
+  {
+   "studentId": "180",
+   "studentName": "Сабыралиева Альбина",
+   "studentLogin": "16/7309",
+   "groupId": "22",
+   "groupName": "БИ-2-16"
+  },
+  {
+   "studentId": "181",
+   "studentName": "Савуся Алексей",
+   "studentLogin": "16/7310",
+   "groupId": "22",
+   "groupName": "БИ-2-16"
+  },
+  {
+   "studentId": "182",
+   "studentName": "Токтоналиев Адил",
+   "studentLogin": "16/7311",
+   "groupId": "22",
+   "groupName": "БИ-2-16"
+  },
+  {
+   "studentId": "183",
+   "studentName": "Турсуналиев Санжар",
+   "studentLogin": "16/7312",
+   "groupId": "22",
+   "groupName": "БИ-2-16"
+  },
+  {
+   "studentId": "184",
+   "studentName": "Турсунбекова Назима",
+   "studentLogin": "16/7313",
+   "groupId": "22",
+   "groupName": "БИ-2-16"
+  },
+  {
+   "studentId": "185",
+   "studentName": "Шакирова Умут",
+   "studentLogin": "16/7314",
+   "groupId": "22",
+   "groupName": "БИ-2-16"
+  },
+  {
+   "studentId": "186",
+   "studentName": "Акылбекова Элнура",
+   "studentLogin": "17/7101",
+   "groupId": "23",
+   "groupName": "ИТ-1-16"
+  },
+  {
+   "studentId": "187",
+   "studentName": "Атантаева Айтунук",
+   "studentLogin": "17/7102",
+   "groupId": "23",
+   "groupName": "ИТ-1-16"
+  },
+  {
+   "studentId": "188",
+   "studentName": "Аманов Тилек Калбекович",
+   "studentLogin": "16/7000",
+   "groupId": "23",
+   "groupName": "ИТ-1-16"
+  },
+  {
+   "studentId": "189",
+   "studentName": "Болотбек уулу  Эмирлан ",
+   "studentLogin": "16/7001",
+   "groupId": "23",
+   "groupName": "ИТ-1-16"
+  },
+  {
+   "studentId": "190",
+   "studentName": "Жалилов Руслан Жалилович",
+   "studentLogin": "16/7002",
+   "groupId": "23",
+   "groupName": "ИТ-1-16"
+  },
+  {
+   "studentId": "191",
+   "studentName": "Жекшенбек уулу Сталбек ",
+   "studentLogin": "16/7003",
+   "groupId": "23",
+   "groupName": "ИТ-1-16"
+  },
+  {
+   "studentId": "192",
+   "studentName": "Малик кызы Нуржан ",
+   "studentLogin": "16/7004",
+   "groupId": "23",
+   "groupName": "ИТ-1-16"
+  },
+  {
+   "studentId": "193",
+   "studentName": "Медет уулу Алмаз ",
+   "studentLogin": "16/7005",
+   "groupId": "23",
+   "groupName": "ИТ-1-16"
+  },
+  {
+   "studentId": "194",
+   "studentName": "Мурадилов Эрлан Талантбекович",
+   "studentLogin": "16/7006",
+   "groupId": "23",
+   "groupName": "ИТ-1-16"
+  },
+  {
+   "studentId": "195",
+   "studentName": "Нааматов Бекболот Алмазбекович",
+   "studentLogin": "16/7007",
+   "groupId": "23",
+   "groupName": "ИТ-1-16"
+  },
+  {
+   "studentId": "196",
+   "studentName": "Насиридинова Дамира Насиридиновна",
+   "studentLogin": "16/7008",
+   "groupId": "23",
+   "groupName": "ИТ-1-16"
+  },
+  {
+   "studentId": "197",
+   "studentName": "Нурбек уулу Эмилбек ",
+   "studentLogin": "16/7009",
+   "groupId": "23",
+   "groupName": "ИТ-1-16"
+  },
+  {
+   "studentId": "198",
+   "studentName": "Тентигенов Данияр Тентигенович",
+   "studentLogin": "16/7010",
+   "groupId": "23",
+   "groupName": "ИТ-1-16"
+  },
+  {
+   "studentId": "199",
+   "studentName": "Урматбеков Адилет Русланович",
+   "studentLogin": "16/7011",
+   "groupId": "23",
+   "groupName": "ИТ-1-16"
+  },
+  {
+   "studentId": "208",
+   "studentName": "Саматов Бекмамат Бегалиевич",
+   "studentLogin": "18/1945",
+   "groupId": "25",
+   "groupName": "ИБ-2-18"
+  },
+  {
+   "studentId": "209",
+   "studentName": "Темирбеков Адилет Темирбекович",
+   "studentLogin": "18/3877",
+   "groupId": "25",
+   "groupName": "ИБ-2-18"
+  },
+  {
+   "studentId": "210",
+   "studentName": "Тохтамов Алтынбек Султанкулович",
+   "studentLogin": "18/5046",
+   "groupId": "25",
+   "groupName": "ИБ-2-18"
+  },
+  {
+   "studentId": "211",
+   "studentName": "Тургунов Нургазы Мансурович",
+   "studentLogin": "18/7209",
+   "groupId": "25",
+   "groupName": "ИБ-2-18"
+  },
+  {
+   "studentId": "212",
+   "studentName": "Турсунбеков Шерзат Тыныбекович",
+   "studentLogin": "18/6694",
+   "groupId": "25",
+   "groupName": "ИБ-2-18"
+  },
+  {
+   "studentId": "213",
+   "studentName": "Урматбеков Бакдөөлөт Урматбекович",
+   "studentLogin": "18/5492",
+   "groupId": "25",
+   "groupName": "ИБ-2-18"
+  },
+  {
+   "studentId": "214",
+   "studentName": "Чокморов Нурбек Таалайбекович",
+   "studentLogin": "18/6844",
+   "groupId": "25",
+   "groupName": "ИБ-2-18"
+  },
+  {
+   "studentId": "215",
+   "studentName": "Шаршенбеков Элдияр Шаршенбекович",
+   "studentLogin": "18/4493",
+   "groupId": "25",
+   "groupName": "ИБ-2-18"
+  },
+  {
+   "studentId": "217",
+   "studentName": "Анарбеков Максат Анарбекович",
+   "studentLogin": "19/11374",
+   "groupId": "26",
+   "groupName": "ИСТ-1-19"
+  },
+  {
+   "studentId": "218",
+   "studentName": "Джапарова Бегимай Джолдошевна",
+   "studentLogin": "19/13543",
+   "groupId": "26",
+   "groupName": "ИСТ-1-19"
+  },
+  {
+   "studentId": "219",
+   "studentName": "Иманкулов Нурсултан Жылдызбекович",
+   "studentLogin": "19/18029",
+   "groupId": "26",
+   "groupName": "ИСТ-1-19"
+  },
+  {
+   "studentId": "220",
+   "studentName": "Канатбекова Бурулсун Жанадиловна",
+   "studentLogin": "19/11510",
+   "groupId": "26",
+   "groupName": "ИСТ-1-19"
+  },
+  {
+   "studentId": "221",
+   "studentName": "Канатбеков Нурислам Айдарбекович",
+   "studentLogin": "19/11062",
+   "groupId": "26",
+   "groupName": "ИСТ-1-19"
+  },
+  {
+   "studentId": "222",
+   "studentName": "Сардарбеков Тилек Медербекович",
+   "studentLogin": "19/18092",
+   "groupId": "26",
+   "groupName": "ИСТ-1-19"
+  },
+  {
+   "studentId": "223",
+   "studentName": "Мелисов Султан Мелисович",
+   "studentLogin": "19/12000",
+   "groupId": "26",
+   "groupName": "ИСТ-1-19"
+  },
+  {
+   "studentId": "224",
+   "studentName": "Маликов Алдияр Урматбекович",
+   "studentLogin": "19/12581",
+   "groupId": "26",
+   "groupName": "ИСТ-1-19"
+  },
+  {
+   "studentId": "225",
+   "studentName": "Нурланбеков Айдар Нурланбекович",
+   "studentLogin": "19/18482",
+   "groupId": "26",
+   "groupName": "ИСТ-1-19"
+  },
+  {
+   "studentId": "226",
+   "studentName": "Асранкулов Медер Суйундукович",
+   "studentLogin": "19/14097",
+   "groupId": "27",
+   "groupName": "ИСТ-2-19"
+  },
+  {
+   "studentId": "227",
+   "studentName": "Багрин Максим Владимирович",
+   "studentLogin": "19/11617",
+   "groupId": "27",
+   "groupName": "ИСТ-2-19"
+  },
+  {
+   "studentId": "228",
+   "studentName": "Илиясов Анвар Махмутович",
+   "studentLogin": "19/13768",
+   "groupId": "27",
+   "groupName": "ИСТ-2-19"
+  },
+  {
+   "studentId": "229",
+   "studentName": "Жусупов Самат Жылдызбекович",
+   "studentLogin": "19/15803",
+   "groupId": "27",
+   "groupName": "ИСТ-2-19"
+  },
+  {
+   "studentId": "230",
+   "studentName": "Сабирбеков Нуртилек Эркинбекович",
+   "studentLogin": "19/15937",
+   "groupId": "27",
+   "groupName": "ИСТ-2-19"
+  },
+  {
+   "studentId": "231",
+   "studentName": "Токтогельдиев Данияр Асхатович",
+   "studentLogin": "19/13073",
+   "groupId": "27",
+   "groupName": "ИСТ-2-19"
+  },
+  {
+   "studentId": "232",
+   "studentName": "Рысбек уулу Ислам",
+   "studentLogin": "19/12091",
+   "groupId": "27",
+   "groupName": "ИСТ-2-19"
+  },
+  {
+   "studentId": "233",
+   "studentName": "Полотов Асан Бахтиярович",
+   "studentLogin": "19/14233",
+   "groupId": "27",
+   "groupName": "ИСТ-2-19"
+  },
+  {
+   "studentId": "234",
+   "studentName": "Чалыбаев Акжол Ыктыярович",
+   "studentLogin": "19/18003",
+   "groupId": "27",
+   "groupName": "ИСТ-2-19"
+  },
+  {
+   "studentId": "235",
+   "studentName": "Исламбеков Курманбек Мусабекович",
+   "studentLogin": "18/0934",
+   "groupId": "28",
+   "groupName": "ИСТ-1-18"
+  },
+  {
+   "studentId": "236",
+   "studentName": "Кааров Мунарбек Каныбекович",
+   "studentLogin": "18/5530",
+   "groupId": "28",
+   "groupName": "ИСТ-1-18"
+  },
+  {
+   "studentId": "237",
+   "studentName": "Какишов Алишер Жылдызбекович",
+   "studentLogin": "18/0733",
+   "groupId": "28",
+   "groupName": "ИСТ-1-18"
+  },
+  {
+   "studentId": "238",
+   "studentName": "Каныбеков Баяман Каныбекович",
+   "studentLogin": "18/1726",
+   "groupId": "28",
+   "groupName": "ИСТ-1-18"
+  },
+  {
+   "studentId": "239",
+   "studentName": "Кочкорбаева Кадырбү Маратовна",
+   "studentLogin": "18/0950",
+   "groupId": "28",
+   "groupName": "ИСТ-1-18"
+  },
+  {
+   "studentId": "240",
+   "studentName": "Самарбекова Саида Самарбековна",
+   "studentLogin": "18/0995",
+   "groupId": "28",
+   "groupName": "ИСТ-1-18"
+  },
+  {
+   "studentId": "241",
+   "studentName": "Сураганов Тамирлан Сураганович",
+   "studentLogin": "18/4975",
+   "groupId": "28",
+   "groupName": "ИСТ-1-18"
+  },
+  {
+   "studentId": "242",
+   "studentName": "Сыдыков Нургазы Султанбекович",
+   "studentLogin": "18/0955",
+   "groupId": "28",
+   "groupName": "ИСТ-1-18"
+  },
+  {
+   "studentId": "243",
+   "studentName": "Таалайбек уулу Дастан",
+   "studentLogin": "18/4931",
+   "groupId": "28",
+   "groupName": "ИСТ-1-18"
+  },
+  {
+   "studentId": "244",
+   "studentName": "Улукбек уулу Нармамат",
+   "studentLogin": "18/5279",
+   "groupId": "28",
+   "groupName": "ИСТ-1-18"
+  },
+  {
+   "studentId": "245",
+   "studentName": "Шаршеналиева Аяна Нурлановна",
+   "studentLogin": "18/0264",
+   "groupId": "28",
+   "groupName": "ИСТ-1-18"
+  },
+  {
+   "studentId": "246",
+   "studentName": "Ысаева Аманда Асейиновна",
+   "studentLogin": "19/15156",
+   "groupId": "28",
+   "groupName": "ИСТ-1-18"
+  },
+  {
+   "studentId": "247",
+   "studentName": "Асанова Сезим Талантбековна",
+   "studentLogin": "19/15169",
+   "groupId": "29",
+   "groupName": "ИСТ-2-18"
+  },
+  {
+   "studentId": "248",
+   "studentName": "Асылбек уулу Адилет",
+   "studentLogin": "19/15165",
+   "groupId": "29",
+   "groupName": "ИСТ-2-18"
+  },
+  {
+   "studentId": "249",
+   "studentName": "Егиналиев Данияр Айбекович",
+   "studentLogin": "19/15161",
+   "groupId": "29",
+   "groupName": "ИСТ-2-18"
+  },
+  {
+   "studentId": "250",
+   "studentName": "Жумабек уулу Азамат",
+   "studentLogin": "19/15180",
+   "groupId": "29",
+   "groupName": "ИСТ-2-18"
+  },
+  {
+   "studentId": "251",
+   "studentName": "Зайсанов Виктор Рустамович",
+   "studentLogin": "19/17573",
+   "groupId": "29",
+   "groupName": "ИСТ-2-18"
+  },
+  {
+   "studentId": "252",
+   "studentName": "Койчуева Керемет Майрамбековна",
+   "studentLogin": "19/15178",
+   "groupId": "29",
+   "groupName": "ИСТ-2-18"
+  },
+  {
+   "studentId": "253",
+   "studentName": "Кубатбек уулу Турар",
+   "studentLogin": "19/15183",
+   "groupId": "29",
+   "groupName": "ИСТ-2-18"
+  },
+  {
+   "studentId": "254",
+   "studentName": "Омуралиева Айчолпон",
+   "studentLogin": "19/15182",
+   "groupId": "29",
+   "groupName": "ИСТ-2-18"
+  },
+  {
+   "studentId": "255",
+   "studentName": "Омуркулова Ырыс Бекчороевна",
+   "studentLogin": "19/15154",
+   "groupId": "29",
+   "groupName": "ИСТ-2-18"
+  },
+  {
+   "studentId": "256",
+   "studentName": "Осмонов Чынгыз Алмазович",
+   "studentLogin": "19/15164",
+   "groupId": "29",
+   "groupName": "ИСТ-2-18"
+  },
+  {
+   "studentId": "257",
+   "studentName": "Сагынбаев Элхан Джолдошбекович",
+   "studentLogin": "19/15167",
+   "groupId": "29",
+   "groupName": "ИСТ-2-18"
+  },
+  {
+   "studentId": "258",
+   "studentName": "Токтобаева Алтынай Дайырбековна",
+   "studentLogin": "19/15186",
+   "groupId": "29",
+   "groupName": "ИСТ-2-18"
+  },
+  {
+   "studentId": "261",
+   "studentName": "Арстанбеков Исламидин Арстанбекович",
+   "studentLogin": "16/6001",
+   "groupId": "30",
+   "groupName": "ИСТ-1-16"
+  },
+  {
+   "studentId": "262",
+   "studentName": "Ашимов Жылдыз-Бек Есенбекович",
+   "studentLogin": "16/6002",
+   "groupId": "30",
+   "groupName": "ИСТ-1-16"
+  },
+  {
+   "studentId": "263",
+   "studentName": "Бейшенбиев Самат Аликазыевич",
+   "studentLogin": "16/6003",
+   "groupId": "30",
+   "groupName": "ИСТ-1-16"
+  },
+  {
+   "studentId": "264",
+   "studentName": "Жекшенбеков Нурсултан Аралбекович",
+   "studentLogin": "16/6004",
+   "groupId": "30",
+   "groupName": "ИСТ-1-16"
+  },
+  {
+   "studentId": "265",
+   "studentName": "Кеңешбеков Жоламан Кеңешбекович",
+   "studentLogin": "16/6005",
+   "groupId": "30",
+   "groupName": "ИСТ-1-16"
+  },
+  {
+   "studentId": "266",
+   "studentName": "Мусаев Талантбек Бакирович",
+   "studentLogin": "16/6006",
+   "groupId": "30",
+   "groupName": "ИСТ-1-16"
+  },
+  {
+   "studentId": "267",
+   "studentName": "Ниязбек уулу Эрлан",
+   "studentLogin": "16/6007",
+   "groupId": "30",
+   "groupName": "ИСТ-1-16"
+  },
+  {
+   "studentId": "268",
+   "studentName": "Нурдунбеков Илим Нурдунбекович",
+   "studentLogin": "16/6008",
+   "groupId": "30",
+   "groupName": "ИСТ-1-16"
+  },
+  {
+   "studentId": "269",
+   "studentName": "Толубаев Бекжан Уланович",
+   "studentLogin": "16/6009",
+   "groupId": "30",
+   "groupName": "ИСТ-1-16"
+  },
+  {
+   "studentId": "270",
+   "studentName": "Урматов Кубан Урматович",
+   "studentLogin": "16/6010",
+   "groupId": "30",
+   "groupName": "ИСТ-1-16"
+  },
+  {
+   "studentId": "271",
+   "studentName": "Дадажонов Жамшит Мамуржанович",
+   "studentLogin": "16/6101",
+   "groupId": "31",
+   "groupName": "ИСТ-2-16"
+  },
+  {
+   "studentId": "272",
+   "studentName": "Курманалиева Эсмиральда Алмазбековна",
+   "studentLogin": "16/6102",
+   "groupId": "31",
+   "groupName": "ИСТ-2-16"
+  },
+  {
+   "studentId": "273",
+   "studentName": "Манас уулу Султанбек",
+   "studentLogin": "16/6103",
+   "groupId": "31",
+   "groupName": "ИСТ-2-16"
+  },
+  {
+   "studentId": "274",
+   "studentName": "Мукашов Алымбек Чубакович",
+   "studentLogin": "16/6104",
+   "groupId": "31",
+   "groupName": "ИСТ-2-16"
+  },
+  {
+   "studentId": "275",
+   "studentName": "Наншанло Асхат Альбертович",
+   "studentLogin": "16/6105",
+   "groupId": "31",
+   "groupName": "ИСТ-2-16"
+  },
+  {
+   "studentId": "276",
+   "studentName": "Нурланова Тахмина Нурлановна",
+   "studentLogin": "16/6106",
+   "groupId": "31",
+   "groupName": "ИСТ-2-16"
+  },
+  {
+   "studentId": "277",
+   "studentName": "Прядеин Игорь Борисович",
+   "studentLogin": "16/6107",
+   "groupId": "31",
+   "groupName": "ИСТ-2-16"
+  },
+  {
+   "studentId": "278",
+   "studentName": "Сыдыков Бектур Маратович",
+   "studentLogin": "16/6108",
+   "groupId": "31",
+   "groupName": "ИСТ-2-16"
+  },
+  {
+   "studentId": "279",
+   "studentName": "Тазабек кызы Кундуз",
+   "studentLogin": "16/6109",
+   "groupId": "31",
+   "groupName": "ИСТ-2-16"
+  },
+  {
+   "studentId": "280",
+   "studentName": "Эсеналиев Аббосхон Адхамжонович",
+   "studentLogin": "16/6110",
+   "groupId": "31",
+   "groupName": "ИСТ-2-16"
+  },
+  {
+   "studentId": "281",
+   "studentName": "Бейшенбиев Самат Аликазыевич",
+   "studentLogin": "16/6201",
+   "groupId": "32",
+   "groupName": "ИСТ-3-16"
+  },
+  {
+   "studentId": "282",
+   "studentName": "Бокошов Сыргабек Акбаралиевич",
+   "studentLogin": "16/6202",
+   "groupId": "32",
+   "groupName": "ИСТ-3-16"
+  },
+  {
+   "studentId": "283",
+   "studentName": "Жанбоев Элчибек Суйуналиевич",
+   "studentLogin": "16/6203",
+   "groupId": "32",
+   "groupName": "ИСТ-3-16"
+  },
+  {
+   "studentId": "284",
+   "studentName": "Жумалы уулу Анарбек",
+   "studentLogin": "16/6204",
+   "groupId": "32",
+   "groupName": "ИСТ-3-16"
+  },
+  {
+   "studentId": "285",
+   "studentName": "Кенешбеков Темирбек Жылдызбекович",
+   "studentLogin": "16/6205",
+   "groupId": "32",
+   "groupName": "ИСТ-3-16"
+  },
+  {
+   "studentId": "286",
+   "studentName": "Мусаева Асель Мейрамовна",
+   "studentLogin": "16/6206",
+   "groupId": "32",
+   "groupName": "ИСТ-3-16"
+  },
+  {
+   "studentId": "287",
+   "studentName": "Толкунбек уулу Нуркамил",
+   "studentLogin": "16/6207",
+   "groupId": "32",
+   "groupName": "ИСТ-3-16"
+  },
+  {
+   "studentId": "288",
+   "studentName": "Туташев Нурсултан Эмилбекович",
+   "studentLogin": "16/6208",
+   "groupId": "32",
+   "groupName": "ИСТ-3-16"
+  },
+  {
+   "studentId": "289",
+   "studentName": "Таалайбеков Ислам Таалайбекович",
+   "studentLogin": "16/6209",
+   "groupId": "32",
+   "groupName": "ИСТ-3-16"
+  },
+  {
+   "studentId": "290",
+   "studentName": "Усупбеков Бексултан Маратбекович",
+   "studentLogin": "16/6210",
+   "groupId": "32",
+   "groupName": "ИСТ-3-16"
+  },
+  {
+   "studentId": "291",
+   "studentName": "Базарбай уулу Бектур",
+   "studentLogin": "19/170226",
+   "groupId": "33",
+   "groupName": "ИСТ-1-17"
+  },
+  {
+   "studentId": "292",
+   "studentName": "Бакашов Алинур Байдылдаевич",
+   "studentLogin": "19/262750",
+   "groupId": "33",
+   "groupName": "ИСТ-1-17"
+  },
+  {
+   "studentId": "293",
+   "studentName": "Бакытбеков Дастан Бакытбекович",
+   "studentLogin": "17/4001",
+   "groupId": "33",
+   "groupName": "ИСТ-1-17"
+  },
+  {
+   "studentId": "294",
+   "studentName": "Жалжалбек уулу Жениш",
+   "studentLogin": "17/4002",
+   "groupId": "33",
+   "groupName": "ИСТ-1-17"
+  },
+  {
+   "studentId": "295",
+   "studentName": "Жумакадыров Жолдошбек Абазбекович",
+   "studentLogin": "17/4003",
+   "groupId": "33",
+   "groupName": "ИСТ-1-17"
+  },
+  {
+   "studentId": "296",
+   "studentName": "Иманбеков Азамат Бактыбекович",
+   "studentLogin": "19/17746403",
+   "groupId": "33",
+   "groupName": "ИСТ-1-17"
+  },
+  {
+   "studentId": "297",
+   "studentName": "Кумарбек уулу Кутманбек",
+   "studentLogin": "17/4004",
+   "groupId": "33",
+   "groupName": "ИСТ-1-17"
+  },
+  {
+   "studentId": "298",
+   "studentName": "Токтуков Санжар",
+   "studentLogin": "19/17744640",
+   "groupId": "33",
+   "groupName": "ИСТ-1-17"
+  },
+  {
+   "studentId": "300",
+   "studentName": "Байшукурова Калмира Кенжебековна",
+   "studentLogin": "17/4100",
+   "groupId": "34",
+   "groupName": "ИСТ-2-17"
+  },
+  {
+   "studentId": "301",
+   "studentName": "Бошкоева Айзада Музуралиевна",
+   "studentLogin": "19/262751",
+   "groupId": "34",
+   "groupName": "ИСТ-2-17"
+  },
+  {
+   "studentId": "302",
+   "studentName": "Исоева Гулмира Хидиралиевна",
+   "studentLogin": "19/262754",
+   "groupId": "34",
+   "groupName": "ИСТ-2-17"
+  },
+  {
+   "studentId": "303",
+   "studentName": "Кадырбек кызы Айзат",
+   "studentLogin": "19/17746402",
+   "groupId": "34",
+   "groupName": "ИСТ-2-17"
+  },
+  {
+   "studentId": "304",
+   "studentName": "Зарылбеков Кубанычбек Зарылбекович",
+   "studentLogin": "19/262755",
+   "groupId": "34",
+   "groupName": "ИСТ-2-17"
+  },
+  {
+   "studentId": "305",
+   "studentName": "Ибраимов Разак Ибраимович",
+   "studentLogin": "19/262756",
+   "groupId": "34",
+   "groupName": "ИСТ-2-17"
+  },
+  {
+   "studentId": "306",
+   "studentName": "Кенжебеков Бексултан Мурадилович",
+   "studentLogin": "17/41007",
+   "groupId": "34",
+   "groupName": "ИСТ-2-17"
+  },
+  {
+   "studentId": "307",
+   "studentName": "Мирадинов Алишер Мирадинович",
+   "studentLogin": "17/41008",
+   "groupId": "34",
+   "groupName": "ИСТ-2-17"
+  },
+  {
+   "studentId": "308",
+   "studentName": "Ниязакунов Тыныстан Талантович",
+   "studentLogin": "19/17746406",
+   "groupId": "34",
+   "groupName": "ИСТ-2-17"
+  },
+  {
+   "studentId": "309",
+   "studentName": "Полукаров Никанор Анатольевич",
+   "studentLogin": "17/41009",
+   "groupId": "34",
+   "groupName": "ИСТ-2-17"
+  },
+  {
+   "studentId": "310",
+   "studentName": "Салихов Даниил Исламович",
+   "studentLogin": "17/41010",
+   "groupId": "34",
+   "groupName": "ИСТ-2-17"
+  },
+  {
+   "studentId": "311",
+   "studentName": "Сейитбеков Кайратбек Сейитбекович",
+   "studentLogin": "19/262764",
+   "groupId": "34",
+   "groupName": "ИСТ-2-17"
+  },
+  {
+   "studentId": "312",
+   "studentName": "Талайбек кызы Каниет",
+   "studentLogin": "19/262766",
+   "groupId": "34",
+   "groupName": "ИСТ-2-17"
+  },
+  {
+   "studentId": "313",
+   "studentName": "Турдиев Ярмагамед Адилжанович",
+   "studentLogin": "19/262767",
+   "groupId": "34",
+   "groupName": "ИСТ-2-17"
+  },
+  {
+   "studentId": "314",
+   "studentName": "Устьянцев Вячеслав Артурович",
+   "studentLogin": "19/262768",
+   "groupId": "34",
+   "groupName": "ИСТ-2-17"
+  },
+  {
+   "studentId": "315",
+   "studentName": "Шамилов Мунарбек Шамилович",
+   "studentLogin": "19/262769",
+   "groupId": "34",
+   "groupName": "ИСТ-2-17"
+  },
+  {
+   "studentId": "316",
+   "studentName": "Амантуров Азамат Базаркулович",
+   "studentLogin": "17/6001",
+   "groupId": "35",
+   "groupName": "ИБ-1-17"
+  },
+  {
+   "studentId": "317",
+   "studentName": "Арстанбеков Кантемир Нурдоолотович",
+   "studentLogin": "17/6002",
+   "groupId": "35",
+   "groupName": "ИБ-1-17"
+  },
+  {
+   "studentId": "318",
+   "studentName": "Бабаев Максатбек Мохидинович",
+   "studentLogin": "17/6003",
+   "groupId": "35",
+   "groupName": "ИБ-1-17"
+  },
+  {
+   "studentId": "319",
+   "studentName": "Балтаев Артур",
+   "studentLogin": "17/6004",
+   "groupId": "35",
+   "groupName": "ИБ-1-17"
+  },
+  {
+   "studentId": "320",
+   "studentName": "Калыбек уулу Дастан",
+   "studentLogin": "17/6005",
+   "groupId": "35",
+   "groupName": "ИБ-1-17"
+  },
+  {
+   "studentId": "321",
+   "studentName": "Калысова Альбина Калысовна",
+   "studentLogin": "17/6006",
+   "groupId": "35",
+   "groupName": "ИБ-1-17"
+  },
+  {
+   "studentId": "322",
+   "studentName": "Мамасалиев Усон Абдимаматович",
+   "studentLogin": "17/6007",
+   "groupId": "35",
+   "groupName": "ИБ-1-17"
+  },
+  {
+   "studentId": "323",
+   "studentName": "Тологенова Айэлита Алмазовна",
+   "studentLogin": "17/6008",
+   "groupId": "35",
+   "groupName": "ИБ-1-17"
+  },
+  {
+   "studentId": "325",
+   "studentName": "Анарбаев Эрболот Эрикович",
+   "studentLogin": "16/5101",
+   "groupId": "50",
+   "groupName": "ИБ-1-16"
+  },
+  {
+   "studentId": "326",
+   "studentName": "Мойдунов Эрбол Мирович",
+   "studentLogin": "16/5102",
+   "groupId": "50",
+   "groupName": "ИБ-1-16"
+  },
+  {
+   "studentId": "327",
+   "studentName": "Рахатбек уулу Бакыт",
+   "studentLogin": "16/5103",
+   "groupId": "50",
+   "groupName": "ИБ-1-16"
+  },
+  {
+   "studentId": "328",
+   "studentName": "Токтосунов Александр Рустамбекович",
+   "studentLogin": "16/5104",
+   "groupId": "50",
+   "groupName": "ИБ-1-16"
+  },
+  {
+   "studentId": "329",
+   "studentName": "Тумаров Саид Якубович",
+   "studentLogin": "16/5105",
+   "groupId": "50",
+   "groupName": "ИБ-1-16"
+  },
+  {
+   "studentId": "330",
+   "studentName": "Эркинбек уулу Марат",
+   "studentLogin": "16/5106",
+   "groupId": "50",
+   "groupName": "ИБ-1-16"
+  },
+  {
+   "studentId": "334",
+   "studentName": "Акылбекова Элнура",
+   "studentLogin": "17/7101",
+   "groupId": "51",
+   "groupName": "БИ-1-17"
+  },
+  {
+   "studentId": "335",
+   "studentName": "Атантаева Айтунук",
+   "studentLogin": "17/7102",
+   "groupId": "51",
+   "groupName": "БИ-1-17"
+  },
+  {
+   "studentId": "336",
+   "studentName": "Бактыгулова Айгерим",
+   "studentLogin": "17/7103",
+   "groupId": "51",
+   "groupName": "БИ-1-17"
+  },
+  {
+   "studentId": "337",
+   "studentName": "Дуйшекеева Гулжамал",
+   "studentLogin": "17/7104",
+   "groupId": "51",
+   "groupName": "БИ-1-17"
+  },
+  {
+   "studentId": "338",
+   "studentName": "Камалов Барсбек",
+   "studentLogin": "17/7105",
+   "groupId": "51",
+   "groupName": "БИ-1-17"
+  },
+  {
+   "studentId": "339",
+   "studentName": "Каримова Алима",
+   "studentLogin": "17/7106",
+   "groupId": "51",
+   "groupName": "БИ-1-17"
+  },
+  {
+   "studentId": "340",
+   "studentName": "Нурланбекова Сальгида",
+   "studentLogin": "17/7107",
+   "groupId": "51",
+   "groupName": "БИ-1-17"
+  },
+  {
+   "studentId": "341",
+   "studentName": "Руслан кызы Хадича",
+   "studentLogin": "17/7108",
+   "groupId": "51",
+   "groupName": "БИ-1-17"
+  },
+  {
+   "studentId": "342",
+   "studentName": "Эрназарова Алтынай",
+   "studentLogin": "17/7109",
+   "groupId": "51",
+   "groupName": "БИ-1-17"
+  },
+  {
+   "studentId": "343",
+   "studentName": "Эрнис кызы Айкан",
+   "studentLogin": "17/7110",
+   "groupId": "51",
+   "groupName": "БИ-1-17"
+  },
+  {
+   "studentId": "344",
+   "studentName": "Акылбекова Элнура",
+   "studentLogin": "17/7101",
+   "groupId": "52",
+   "groupName": "ИТ-1-17"
+  },
+  {
+   "studentId": "345",
+   "studentName": "Атантаева Айтунук",
+   "studentLogin": "17/7102",
+   "groupId": "52",
+   "groupName": "ИТ-1-17"
+  },
+  {
+   "studentId": "346",
+   "studentName": "Аскарбеков Адиль",
+   "studentLogin": "17/7203",
+   "groupId": "52",
+   "groupName": "ИТ-1-17"
+  },
+  {
+   "studentId": "347",
+   "studentName": "Замирова Жаннат",
+   "studentLogin": "17/7204",
+   "groupId": "52",
+   "groupName": "ИТ-1-17"
+  },
+  {
+   "studentId": "348",
+   "studentName": "Нажмудинова Луиза",
+   "studentLogin": "17/7205",
+   "groupId": "52",
+   "groupName": "ИТ-1-17"
+  },
+  {
+   "studentId": "349",
+   "studentName": "Хасанов Рамзан",
+   "studentLogin": "17/7206",
+   "groupId": "52",
+   "groupName": "ИТ-1-17"
+  },
+  {
+   "studentId": "350",
+   "studentName": "Таалайбек кызы Наргиза",
+   "studentLogin": "17/7207",
+   "groupId": "52",
+   "groupName": "ИТ-1-17"
+  },
+  {
+   "studentId": "351",
+   "studentName": "Алиаскаров Дастанбек",
+   "studentLogin": "17/7208",
+   "groupId": "52",
+   "groupName": "ИТ-1-17"
+  },
+  {
+   "studentId": "352",
+   "studentName": "Алыев Акназар",
+   "studentLogin": "17/7209",
+   "groupId": "52",
+   "groupName": "ИТ-1-17"
+  },
+  {
+   "studentId": "353",
+   "studentName": "Бектемир уулу Рамис",
+   "studentLogin": "17/7210",
+   "groupId": "52",
+   "groupName": "ИТ-1-17"
+  },
+  {
+   "studentId": "354",
+   "studentName": "Исманкулов Нурсултан",
+   "studentLogin": "17/7211",
+   "groupId": "52",
+   "groupName": "ИТ-1-17"
+  },
+  {
+   "studentId": "355",
+   "studentName": "Мыйманали уулу Исхак",
+   "studentLogin": "17/7212",
+   "groupId": "52",
+   "groupName": "ИТ-1-17"
+  },
+  {
+   "studentId": "356",
+   "studentName": "Свитенко Радмир",
+   "studentLogin": "17/7213",
+   "groupId": "52",
+   "groupName": "ИТ-1-17"
+  },
+  {
+   "studentId": "357",
+   "studentName": "Акылбекова Элнура",
+   "studentLogin": "17/7101",
+   "groupId": "53",
+   "groupName": "ИТ-2-17"
+  },
+  {
+   "studentId": "358",
+   "studentName": "Атантаева Айтунук",
+   "studentLogin": "17/7102",
+   "groupId": "53",
+   "groupName": "ИТ-2-17"
+  },
+  {
+   "studentId": "359",
+   "studentName": "Осмонов Чынгыз",
+   "studentLogin": "17/7200",
+   "groupId": "53",
+   "groupName": "ИТ-2-17"
+  },
+  {
+   "studentId": "360",
+   "studentName": "Жонбутаев Арсен",
+   "studentLogin": "17/7201",
+   "groupId": "53",
+   "groupName": "ИТ-2-17"
+  },
+  {
+   "studentId": "361",
+   "studentName": "Ильичбеков Азамат",
+   "studentLogin": "17/7202",
+   "groupId": "53",
+   "groupName": "ИТ-2-17"
+  },
+  {
+   "studentId": "362",
+   "studentName": "Канатбек уулу Камчыбек",
+   "studentLogin": "17/7203",
+   "groupId": "53",
+   "groupName": "ИТ-2-17"
+  },
+  {
+   "studentId": "363",
+   "studentName": "Мамытов Бексултан",
+   "studentLogin": "17/7204",
+   "groupId": "53",
+   "groupName": "ИТ-2-17"
+  },
+  {
+   "studentId": "366",
+   "studentName": "Бейбитова Алтынай",
+   "studentLogin": "18/0222",
+   "groupId": "54",
+   "groupName": "ИТ-1-18"
+  },
+  {
+   "studentId": "367",
+   "studentName": "Джафаров Али",
+   "studentLogin": "18/7983",
+   "groupId": "54",
+   "groupName": "ИТ-1-18"
+  },
+  {
+   "studentId": "368",
+   "studentName": "Ибраимова Гузальракин",
+   "studentLogin": "18/1238",
+   "groupId": "54",
+   "groupName": "ИТ-1-18"
+  },
+  {
+   "studentId": "369",
+   "studentName": "Коноплин Олег",
+   "studentLogin": "1/10278",
+   "groupId": "54",
+   "groupName": "ИТ-1-18"
+  },
+  {
+   "studentId": "370",
+   "studentName": "Кушбеков Давлет",
+   "studentLogin": "18/2721",
+   "groupId": "54",
+   "groupName": "ИТ-1-18"
+  },
+  {
+   "studentId": "371",
+   "studentName": "Шаршенов Данияр",
+   "studentLogin": "18/1824",
+   "groupId": "54",
+   "groupName": "ИТ-1-18"
+  },
+  {
+   "studentId": "375",
+   "studentName": "Асанбеков Эрмек",
+   "studentLogin": "18/1461",
+   "groupId": "55",
+   "groupName": "ИТ-2-18"
+  },
+  {
+   "studentId": "376",
+   "studentName": "Жумагазиев Нурсултан",
+   "studentLogin": "18/5091",
+   "groupId": "55",
+   "groupName": "ИТ-2-18"
+  },
+  {
+   "studentId": "377",
+   "studentName": "Зарылов Гулжигит",
+   "studentLogin": "18/5208",
+   "groupId": "55",
+   "groupName": "ИТ-2-18"
+  },
+  {
+   "studentId": "378",
+   "studentName": "Митал уулу Камбар",
+   "studentLogin": "18/2748",
+   "groupId": "55",
+   "groupName": "ИТ-2-18"
+  },
+  {
+   "studentId": "379",
+   "studentName": "Нуржанов Эмирлан",
+   "studentLogin": "18/1403",
+   "groupId": "55",
+   "groupName": "ИТ-2-18"
+  },
+  {
+   "studentId": "380",
+   "studentName": "Сабырбеков Исхак",
+   "studentLogin": "18/1772",
+   "groupId": "55",
+   "groupName": "ИТ-2-18"
+  },
+  {
+   "studentId": "381",
+   "studentName": "Урустом уулу Жакшылык",
+   "studentLogin": "18/1301",
+   "groupId": "55",
+   "groupName": "ИТ-2-18"
+  },
+  {
+   "studentId": "382",
+   "studentName": "Усонбекова Айгерим",
+   "studentLogin": "18/1302",
+   "groupId": "55",
+   "groupName": "ИТ-2-18"
+  },
+  {
+   "studentId": "384",
+   "studentName": "Абдыкарова Алина",
+   "studentLogin": "18/3705",
+   "groupId": "56",
+   "groupName": "БИ-1-18"
+  },
+  {
+   "studentId": "385",
+   "studentName": "Абдыкеева Айгерим",
+   "studentLogin": "18/1344",
+   "groupId": "56",
+   "groupName": "БИ-1-18"
+  },
+  {
+   "studentId": "386",
+   "studentName": "Акматалиева Зульфия",
+   "studentLogin": "18/1649",
+   "groupId": "56",
+   "groupName": "БИ-1-18"
+  },
+  {
+   "studentId": "387",
+   "studentName": "Чоткараев Шергазы",
+   "studentLogin": "18/5134",
+   "groupId": "56",
+   "groupName": "БИ-1-18"
+  },
+  {
+   "studentId": "388",
+   "studentName": "Воронкова Евгения",
+   "studentLogin": "19/19706",
+   "groupId": "56",
+   "groupName": "БИ-1-18"
+  },
+  {
+   "studentId": "389",
+   "studentName": "Кадырбек уулу Бактияр",
+   "studentLogin": "18/0973",
+   "groupId": "56",
+   "groupName": "БИ-1-18"
+  },
+  {
+   "studentId": "390",
+   "studentName": "Мирболотова Бурул",
+   "studentLogin": "18/5528",
+   "groupId": "56",
+   "groupName": "БИ-1-18"
+  },
+  {
+   "studentId": "391",
+   "studentName": "Сакыбекова Мээрим",
+   "studentLogin": "19/15196",
+   "groupId": "56",
+   "groupName": "БИ-1-18"
+  },
+  {
+   "studentId": "392",
+   "studentName": "Талантбекова Альбина",
+   "studentLogin": "19/15197",
+   "groupId": "56",
+   "groupName": "БИ-1-18"
+  },
+  {
+   "studentId": "393",
+   "studentName": "Сыргак уулу Бакыт",
+   "studentLogin": "19/19605",
+   "groupId": "56",
+   "groupName": "БИ-1-18"
+  },
+  {
+   "studentId": "394",
+   "studentName": "Касымалиева Кенжегул",
+   "studentLogin": "19/19319",
+   "groupId": "57",
+   "groupName": "БИ-2-18"
+  },
+  {
+   "studentId": "395",
+   "studentName": "Касымбеков Амангелди",
+   "studentLogin": "19/15203",
+   "groupId": "57",
+   "groupName": "БИ-2-18"
+  },
+  {
+   "studentId": "396",
+   "studentName": "Кундузова Айтунук",
+   "studentLogin": "18/5236",
+   "groupId": "57",
+   "groupName": "БИ-2-18"
+  },
+  {
+   "studentId": "397",
+   "studentName": "Мендибаева Жанылай",
+   "studentLogin": "18/3287",
+   "groupId": "57",
+   "groupName": "БИ-2-18"
+  },
+  {
+   "studentId": "398",
+   "studentName": "Рысалиев Эдиль",
+   "studentLogin": "18/1603",
+   "groupId": "57",
+   "groupName": "БИ-2-18"
+  },
+  {
+   "studentId": "399",
+   "studentName": "Сайнидинов Чынгыз",
+   "studentLogin": "19/15199",
+   "groupId": "57",
+   "groupName": "БИ-2-18"
+  },
+  {
+   "studentId": "400",
+   "studentName": "Токтобекова Бегимай",
+   "studentLogin": "19/15201",
+   "groupId": "57",
+   "groupName": "БИ-2-18"
+  },
+  {
+   "studentId": "401",
+   "studentName": "Туратбек у Нурбек",
+   "studentLogin": "19/18282",
+   "groupId": "57",
+   "groupName": "БИ-2-18"
+  },
+  {
+   "studentId": "403",
+   "studentName": "Акжол к Кулпунай",
+   "studentLogin": "19/16064",
+   "groupId": "58",
+   "groupName": "БИ-1-19"
+  },
+  {
+   "studentId": "404",
+   "studentName": "Акылбекова Айтурган",
+   "studentLogin": "19/18017",
+   "groupId": "58",
+   "groupName": "БИ-1-19"
+  },
+  {
+   "studentId": "405",
+   "studentName": "Бейшенбекова Адиля",
+   "studentLogin": "19/16733",
+   "groupId": "58",
+   "groupName": "БИ-1-19"
+  },
+  {
+   "studentId": "406",
+   "studentName": "Кубанычбекова Мырзайым",
+   "studentLogin": "19/11593",
+   "groupId": "58",
+   "groupName": "БИ-1-19"
+  },
+  {
+   "studentId": "407",
+   "studentName": "Кулуев Акниет",
+   "studentLogin": "19/11974",
+   "groupId": "58",
+   "groupName": "БИ-1-19"
+  },
+  {
+   "studentId": "408",
+   "studentName": "Мелисова Адиля",
+   "studentLogin": "19/15731",
+   "groupId": "58",
+   "groupName": "БИ-1-19"
+  },
+  {
+   "studentId": "409",
+   "studentName": "Мирбек к Бегимай",
+   "studentLogin": "19/17995",
+   "groupId": "58",
+   "groupName": "БИ-1-19"
+  },
+  {
+   "studentId": "410",
+   "studentName": "Насыров Кулам",
+   "studentLogin": "19/18207",
+   "groupId": "58",
+   "groupName": "БИ-1-19"
+  },
+  {
+   "studentId": "411",
+   "studentName": "Пардабаев Мухамедали",
+   "studentLogin": "19/19082",
+   "groupId": "58",
+   "groupName": "БИ-1-19"
+  },
+  {
+   "studentId": "412",
+   "studentName": "Рыспай к Зарина",
+   "studentLogin": "19/13995",
+   "groupId": "58",
+   "groupName": "БИ-1-19"
+  },
+  {
+   "studentId": "413",
+   "studentName": "Сатыбекова Медина",
+   "studentLogin": "19/11516",
+   "groupId": "58",
+   "groupName": "БИ-1-19"
+  },
+  {
+   "studentId": "414",
+   "studentName": "Таалайбекова Ариетта",
+   "studentLogin": "19/11607",
+   "groupId": "58",
+   "groupName": "БИ-1-19"
+  },
+  {
+   "studentId": "415",
+   "studentName": "Шадыбек к Каныкей",
+   "studentLogin": "19/13650",
+   "groupId": "58",
+   "groupName": "БИ-1-19"
+  },
+  {
+   "studentId": "416",
+   "studentName": "Бокарев Семён",
+   "studentLogin": "19/15578",
+   "groupId": "59",
+   "groupName": "ИТ-1-19"
+  },
+  {
+   "studentId": "417",
+   "studentName": "Мусаев Мухамед",
+   "studentLogin": "19/18211",
+   "groupId": "59",
+   "groupName": "ИТ-1-19"
+  },
+  {
+   "studentId": "418",
+   "studentName": "Наматбеков Аден",
+   "studentLogin": "19/15566",
+   "groupId": "59",
+   "groupName": "ИТ-1-19"
+  },
+  {
+   "studentId": "419",
+   "studentName": "Сутангенов Роман",
+   "studentLogin": "19/16494",
+   "groupId": "59",
+   "groupName": "ИТ-1-19"
+  },
+  {
+   "studentId": "420",
+   "studentName": "Туратбеков Кутман",
+   "studentLogin": "19/12278",
+   "groupId": "59",
+   "groupName": "ИТ-1-19"
+  },
+  {
+   "studentId": "421",
+   "studentName": "Эрнис уулу Дастан",
+   "studentLogin": "19/12272",
+   "groupId": "59",
+   "groupName": "ИТ-1-19"
+  },
+  {
+   "studentId": "422",
+   "studentName": "Шаршембиева Элиза",
+   "studentLogin": "19/16147",
+   "groupId": "59",
+   "groupName": "ИТ-1-19"
+  },
+  {
+   "studentId": "425",
+   "studentName": "Кадырбаев Бекмырза",
+   "studentLogin": "19/12553",
+   "groupId": "60",
+   "groupName": "ИТ-2-19"
+  },
+  {
+   "studentId": "426",
+   "studentName": "Кубанычбек уулу Эрлан ",
+   "studentLogin": "19/16495",
+   "groupId": "60",
+   "groupName": "ИТ-2-19"
+  },
+  {
+   "studentId": "427",
+   "studentName": "Мукашев Акжол",
+   "studentLogin": "19/12947",
+   "groupId": "60",
+   "groupName": "ИТ-2-19"
+  },
+  {
+   "studentId": "428",
+   "studentName": "Тынчтыкбек уулу Эрмамат",
+   "studentLogin": "19/15696",
+   "groupId": "60",
+   "groupName": "ИТ-2-19"
+  },
+  {
+   "studentId": "429",
+   "studentName": "Смайылбеков Максат ",
+   "studentLogin": "19/16742",
+   "groupId": "60",
+   "groupName": "ИТ-2-19"
+  },
+  {
+   "studentId": "430",
+   "studentName": "Шаршеналиев Элдик",
+   "studentLogin": "19/12707",
+   "groupId": "60",
+   "groupName": "ИТ-2-19"
+  },
+  {
+   "studentId": "431",
+   "studentName": "Эсенжанов Тилек ",
+   "studentLogin": "19/12814",
+   "groupId": "60",
+   "groupName": "ИТ-2-19"
+  },
+  {
+   "studentId": "432",
+   "studentName": "Эшенкулов Адилет",
+   "studentLogin": "19/15603",
+   "groupId": "60",
+   "groupName": "ИТ-2-19"
+  }
+ ]
+}
